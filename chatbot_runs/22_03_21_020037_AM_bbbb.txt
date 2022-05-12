@@ -1,0 +1,47 @@
+1647842437 Max tokens: 50, Temperature: 0.4 
+1647842437 Sounds good! Lets learn about bbbb 
+1647842437 ONE LINE SUMMARY 
+1647842437 Who is bbbb? 
+1647842437 {"choices"=>[{"text"=>"Hello"}]} 
+1647842437 Hello 
+1647842437 ELABORATION 
+1647842437 Elaborate on bbbb 
+1647842437 {"choices"=>[{"text"=>"Hello"}]} 
+1647842437 Hello 
+1647842437 What else can I tell you about bbbb? 
+1647842437 A. Tell me more about their life. 
+1647842437 B. Tell me more about their accomplishments. 
+1647842437 C. Tell me more about the time period they were alive during. 
+1647842437 Or, ask me anything about bbbb! 
+1647842441 C RESPONSE 
+1647842441 Tell me more about the time period bbbb was alive during 
+1647842441 {"choices"=>[{"text"=>"Hello"}]} 
+1647842441 Hello 
+1647842441 Time for a quiz! 
+1647842441 true or false 
+1647842441 Based on the information we have learned about bbbb, including HelloHelloHello, generate one true or false question but do not answer it: 
+1647842441 {"choices"=>[{"text"=>"Hello"}]} 
+1647842441 Hello 
+1647842444 D 
+1647842444 Is D a correct answer to the following question: Hello? Yes or no? 
+1647842444 {"choices"=>[{"text"=>"Hello"}]} 
+1647842444 Hello 
+1647842444 multiple choice 
+1647842444 Based on the information we have learned about bbbb, including HelloHelloHello, generate one multiple choice question but do not answer it: 
+1647842444 {"choices"=>[{"text"=>"Hello"}]} 
+1647842444 Hello 
+1647842446 F 
+1647842446 Is F a correct answer to the following question: Hello? Yes or no? 
+1647842446 {"choices"=>[{"text"=>"Hello"}]} 
+1647842446 Hello 
+1647842446 short answer 
+1647842446 Based on the information we have learned about bbbb, including HelloHelloHello, generate one short answer question but do not answer it: 
+1647842446 {"choices"=>[{"text"=>"Hello"}]} 
+1647842446 Hello 
+1647842447 G 
+1647842447 Is G a correct answer to the following question: Hello? Yes or no? 
+1647842447 {"choices"=>[{"text"=>"Hello"}]} 
+1647842447 Hello 
+1647842447 Your score is 0 out of 4 
+1647842447 Choose another person? Y/N 
+1647842450 Goodbye! 

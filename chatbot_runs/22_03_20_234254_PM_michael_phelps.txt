@@ -1,0 +1,44 @@
+1647834174 Max tokens: 50, Temperature: 0.4 
+1647834174 Sounds good! Lets learn about Michael Phelps 
+1647834174 ONE LINE SUMMARY 
+1647834174 Who is Michael Phelps? 
+1647834176 {"id"=>"cmpl-4o3EVmatlCWq1EDQOKVO7eQjvFQKb", "object"=>"text_completion", "created"=>1647834175, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\n\nMichael Phelps is an American swimmer who is considered to be one of the greatest athletes of all time. He has won a record 28 Olympic medals, including 23 gold medals.", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 
+1647834176 Michael Phelps is an American swimmer who is considered to be one of the greatest athletes of all time. He has won a record 28 Olympic medals, including 23 gold medals. 
+1647834176 ELABORATION 
+1647834176 Elaborate on Michael Phelps 
+1647834179 {"id"=>"cmpl-4o3EW5bDk9nkeQKr1RZpqFbM2RaEr", "object"=>"text_completion", "created"=>1647834176, "model"=>"text-davinci:002", "choices"=>[{"text"=>"' career\n\nMichael Phelps is an American competitive swimmer and the most decorated Olympian of all time, with a total of 28 medals. Phelps has won 23 gold medals, 3 silver medals, and 2 bronze medals. Phelps has also set 39 world records in swimming.\n\nPhelps began swimming at the age of seven, and he quickly began to show promise as a competitive swimmer. Phelps made his Olympic debut at the age of 15 at the 2000 Sydney Olympics, where he finished fifth", "index"=>0, "logprobs"=>nil, "finish_reason"=>"length"}]} 
+1647834179 ' careerMichael Phelps is an American competitive swimmer and the most decorated Olympian of all time, with a total of 28 medals. Phelps has won 23 gold medals, 3 silver medals, and 2 bronze medals. Phelps has also set 39 world records in swimming.Phelps began swimming at the age of seven, and he quickly began to show promise as a competitive swimmer. Phelps made his Olympic debut at the age of 15 at the 2000 Sydney Olympics, where he finished fifth 
+1647834179 What else can I tell you about Michael Phelps? 
+1647834179 A. Tell me more about their life. 
+1647834179 B. Tell me more about their accomplishments. 
+1647834179 C. Tell me more about the time period they were alive during. 
+1647834179 Or, ask me anything about Michael Phelps! 
+1647834199 D RESPONSE 
+1647834199 Answer the following question about Michael Phelps: How old is he today?? 
+1647834200 {"id"=>"cmpl-4o3Et0agk38XpwEqHo4V2bnCwUPgQ", "object"=>"text_completion", "created"=>1647834199, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\n\nMichael Phelps is 34 years old today.", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 
+1647834200 Michael Phelps is 34 years old today. 
+1647834200 Time for a quiz! 
+1647834200 TRUE OR FALSE QUESTION 
+1647834200 Based on the information we have learned about Michael Phelps, including Michael Phelps is an American swimmer who is considered to be one of the greatest athletes of all time. He has won a record 28 Olympic medals, including 23 gold medals., ' careerMichael Phelps is an American competitive swimmer and the most decorated Olympian of all time, with a total of 28 medals. Phelps has won 23 gold medals, 3 silver medals, and 2 bronze medals. Phelps has also set 39 world records in swimming.Phelps began swimming at the age of seven, and he quickly began to show promise as a competitive swimmer. Phelps made his Olympic debut at the age of 15 at the 2000 Sydney Olympics, where he finished fifth and Michael Phelps is 34 years old today., generate one true or false question but do not answer it: 
+1647834200 {"id"=>"cmpl-4o3EuOSkTechcaMyylMAI5PnsSW00", "object"=>"text_completion", "created"=>1647834200, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\n\nMichael Phelps is the most decorated Olympian of all time.", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 
+1647834200 Michael Phelps is the most decorated Olympian of all time. 
+1647834204 Is True a correct answer to the following question: Michael Phelps is the most decorated Olympian of all time.? Yes or no? 
+1647834204 {"id"=>"cmpl-4o3Eykcvwtfosi9M3ouFtoVAyZi3u", "object"=>"text_completion", "created"=>1647834204, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\n\nYes", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 
+1647834204 Yes 
+1647834204 MULTIPLE CHOICE QUESTION 
+1647834204 Based on the information we have learned about Michael Phelps, including Michael Phelps is an American swimmer who is considered to be one of the greatest athletes of all time. He has won a record 28 Olympic medals, including 23 gold medals., ' careerMichael Phelps is an American competitive swimmer and the most decorated Olympian of all time, with a total of 28 medals. Phelps has won 23 gold medals, 3 silver medals, and 2 bronze medals. Phelps has also set 39 world records in swimming.Phelps began swimming at the age of seven, and he quickly began to show promise as a competitive swimmer. Phelps made his Olympic debut at the age of 15 at the 2000 Sydney Olympics, where he finished fifth and Michael Phelps is 34 years old today., generate one multiple choice question but do not answer it: 
+1647834206 {"id"=>"cmpl-4o3EyLWSZsQtuxjRIR4DvXhwTnnV4", "object"=>"text_completion", "created"=>1647834204, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\n\n1. How many Olympic medals has Michael Phelps won?\n\na. 28\n\nb. 23\n\nc. 3\n\nd. 2", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 
+1647834206 1. How many Olympic medals has Michael Phelps won?a. 28b. 23c. 3d. 2 
+1647834218 Is A a correct answer to the following question: 1. How many Olympic medals has Michael Phelps won?a. 28b. 23c. 3d. 2? Yes or no? 
+1647834219 {"id"=>"cmpl-4o3FD3OkJpsc9vr2QejkQOTWH7boB", "object"=>"text_completion", "created"=>1647834219, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\n\nYes, A is a correct answer to the question.", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 
+1647834219 Yes, A is a correct answer to the question. 
+1647834219 SHORT ANSWER QUESTION 
+1647834219 Based on the information we have learned about Michael Phelps, including Michael Phelps is an American swimmer who is considered to be one of the greatest athletes of all time. He has won a record 28 Olympic medals, including 23 gold medals., ' careerMichael Phelps is an American competitive swimmer and the most decorated Olympian of all time, with a total of 28 medals. Phelps has won 23 gold medals, 3 silver medals, and 2 bronze medals. Phelps has also set 39 world records in swimming.Phelps began swimming at the age of seven, and he quickly began to show promise as a competitive swimmer. Phelps made his Olympic debut at the age of 15 at the 2000 Sydney Olympics, where he finished fifth and Michael Phelps is 34 years old today., generate one short answer question but do not answer it: 
+1647834220 {"id"=>"cmpl-4o3FDPSA9r5ifKAh7BaPXf6rUiyOc", "object"=>"text_completion", "created"=>1647834219, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\n\nWhat is Michael Phelps' greatest accomplishment?", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 
+1647834220 What is Michael Phelps' greatest accomplishment? 
+1647834261 Is He has several accomplishments, but probably having the most olympic medals of all time a correct answer to the following question: What is Michael Phelps' greatest accomplishment?? Yes or no? 
+1647834262 {"id"=>"cmpl-4o3Ftt0RquAVzTZzpLTM31dMDJLsK", "object"=>"text_completion", "created"=>1647834261, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\n\nYes", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 
+1647834262 Yes 
+1647834262 Your score is 4 out of 4 
+1647834262 Choose another person? Y/N 
+1647834265 Goodbye! 

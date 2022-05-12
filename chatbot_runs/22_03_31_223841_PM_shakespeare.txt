@@ -1,0 +1,89 @@
+1648780721 PARAMETERS Max tokens: 50, Temperature: 0.4 
+1648780721 OUTPUT Sounds good! Lets learn about Shakespeare 
+1648780721 QUERY Who was Barack Obama?
+ Barack Obama was the 44th president of the United States (2009–17) and the first African American to hold the office. Before winning the presidency, Obama represented Illinois in the U.S. Senate (2005–08). He was the third African American to be elected to that body since the end of Reconstruction (1877). In 2009 he was awarded the Nobel Peace Prize for his extraordinary efforts to strengthen international diplomacy and cooperation between peoples.
+ Who is Shakespeare?
+ 
+1648780724 RESPONSE {"id"=>"cmpl-4s1TOi83oSsr7Ly2Ax4RZAfMjaXU6", "object"=>"text_completion", "created"=>1648780722, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\nWilliam Shakespeare was an English poet, playwright, and actor, widely regarded as the greatest writer in the English language and the world's pre-eminent dramatist. He is often called England's national poet and the \"Bard of Avon\". His extant works, including collaborations, consist of approximately 38 plays, 154 sonnets, two long narrative poems, and a few other verses, some of uncertain authorship. His plays have been translated into every major living language and are performed", "index"=>0, "logprobs"=>nil, "finish_reason"=>"length"}]} 
+1648780724 OUTPUT 
+William Shakespeare was an English poet, playwright, and actor, widely regarded as the greatest writer in the English language and the world's pre-eminent dramatist. He is often called England's national poet and the "Bard of Avon". His extant works, including collaborations, consist of approximately 38 plays, 154 sonnets, two long narrative poems, and a few other verses, some of uncertain authorship. His plays have been translated into every major living language and are performed 
+1648780724 OUTPUT What else can I tell you about Shakespeare? 
+1648780724 OUTPUT A. Tell me more about their life. 
+1648780724 OUTPUT B. Tell me more about their accomplishments. 
+1648780724 OUTPUT C. Tell me more about the time period they were alive during. 
+1648780724 OUTPUT Or, ask me anything about Shakespeare! 
+1648780734 INPUT B 
+1648780734 QUERY Tell me more about Barack Obama's accomplishments:
+ During his first term he signed three signature bills: an omnibus bill to stimulate the economy, legislation making health care more accessible and affordable, and legislation reforming the nation’s financial institutions. Obama also pressed for a fair pay act for women, financial reform legislation, and efforts for consumer protection. In 2009, Obama became the fourth president to receive the Nobel Peace Prize. In his second term, Obama sought to manage a hostile Iran with a treaty that hindered its development of nuclear weapons. The Obama administration also adopted a climate change agreement signed by 195 nations to reduce greenhouse gas emissions and slow global warming.
+ Tell me more about Shakespeare's accomplishments:
+ 
+1648780738 RESPONSE {"id"=>"cmpl-4s1TarNOKOGSqtpFrlqE5SpP9nAWN", "object"=>"text_completion", "created"=>1648780734, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\nWilliam Shakespeare was an English playwright, poet, and actor who is considered one of the greatest writers in the English language. He wrote approximately 38 plays, including classics such as \"Macbeth,\" \"Romeo and Juliet,\" and \"Hamlet.\" He also wrote 154 sonnets, which are some of the most famous poems in the English language. Shakespeare's work has been translated into more than 50 languages and his plays are performed more often than those of any other playwright.", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 
+1648780738 OUTPUT 
+William Shakespeare was an English playwright, poet, and actor who is considered one of the greatest writers in the English language. He wrote approximately 38 plays, including classics such as "Macbeth," "Romeo and Juliet," and "Hamlet." He also wrote 154 sonnets, which are some of the most famous poems in the English language. Shakespeare's work has been translated into more than 50 languages and his plays are performed more often than those of any other playwright. 
+1648780738 OUTPUT Time for a quiz! 
+1648780738 QUERY Based on the information we have learned about Barack Obama, generate one true or false question but do not answer it:
+ True or False: Barack Obama was born in Hawaii.
+Based on the information we have learned about Shakespeare, including 
+William Shakespeare was an English poet, playwright, and actor, widely regarded as the greatest writer in the English language and the world's pre-eminent dramatist. He is often called England's national poet and the "Bard of Avon". His extant works, including collaborations, consist of approximately 38 plays, 154 sonnets, two long narrative poems, and a few other verses, some of uncertain authorship. His plays have been translated into every major living language and are performed
+William Shakespeare was an English playwright, poet, and actor who is considered one of the greatest writers in the English language. He wrote approximately 38 plays, including classics such as "Macbeth," "Romeo and Juliet," and "Hamlet." He also wrote 154 sonnets, which are some of the most famous poems in the English language. Shakespeare's work has been translated into more than 50 languages and his plays are performed more often than those of any other playwright., generate one true or false question but do not answer it: 
+1648780739 RESPONSE {"id"=>"cmpl-4s1TeeZcrcCAVTIjSA9UbDkCyDNbx", "object"=>"text_completion", "created"=>1648780738, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\n\nTrue or False: Shakespeare was born in England.", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 
+1648780739 OUTPUT 
+
+True or False: Shakespeare was born in England. 
+1648780758 INPUT True 
+1648780758 QUERY Is True a correct answer to the following question: 
+
+True or False: Shakespeare was born in England.? Yes or no? 
+1648780759 RESPONSE {"id"=>"cmpl-4s1Tyggmye2pLiPcPH7jkAYgSpk5d", "object"=>"text_completion", "created"=>1648780758, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\n\nTrue", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 
+1648780759 OUTPUT 
+
+True 
+1648780759 QUERY Based on the information we have learned about Barack Obama, generate one multiple choice question but do not answer it:
+ Where was Barack Obama born?
+ A. Oregon
+ B. New York
+ C. Hawaii
+ D. California
+Based on the information we have learned about Shakespeare, including 
+William Shakespeare was an English poet, playwright, and actor, widely regarded as the greatest writer in the English language and the world's pre-eminent dramatist. He is often called England's national poet and the "Bard of Avon". His extant works, including collaborations, consist of approximately 38 plays, 154 sonnets, two long narrative poems, and a few other verses, some of uncertain authorship. His plays have been translated into every major living language and are performed
+William Shakespeare was an English playwright, poet, and actor who is considered one of the greatest writers in the English language. He wrote approximately 38 plays, including classics such as "Macbeth," "Romeo and Juliet," and "Hamlet." He also wrote 154 sonnets, which are some of the most famous poems in the English language. Shakespeare's work has been translated into more than 50 languages and his plays are performed more often than those of any other playwright., generate one multiple choice question but do not answer it: 
+1648780760 RESPONSE {"id"=>"cmpl-4s1Tz7lg8dwcNoazfVuj6rRCouT5Q", "object"=>"text_completion", "created"=>1648780759, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\n\nWhich of the following is not a play written by Shakespeare?\nA. Macbeth\nB. Romeo and Juliet\nC. The Tempest\nD. The Catcher in the Rye", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 
+1648780760 OUTPUT 
+
+Which of the following is not a play written by Shakespeare?
+A. Macbeth
+B. Romeo and Juliet
+C. The Tempest
+D. The Catcher in the Rye 
+1648780768 INPUT D 
+1648780768 QUERY Is D a correct answer to the following question: 
+
+Which of the following is not a play written by Shakespeare?
+A. Macbeth
+B. Romeo and Juliet
+C. The Tempest
+D. The Catcher in the Rye? Yes or no? 
+1648780770 RESPONSE {"id"=>"cmpl-4s1U9cNMhLta9nLF4wEsTNp7QnvyZ", "object"=>"text_completion", "created"=>1648780769, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\n\nNo", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 
+1648780770 OUTPUT 
+
+No 
+1648780770 QUERY Based on the information we have learned about Barack Obama, generate one free response question but do not answer it:
+ What did Obama do to combat global warming?
+Based on the information we have learned about Shakespeare, including 
+William Shakespeare was an English poet, playwright, and actor, widely regarded as the greatest writer in the English language and the world's pre-eminent dramatist. He is often called England's national poet and the "Bard of Avon". His extant works, including collaborations, consist of approximately 38 plays, 154 sonnets, two long narrative poems, and a few other verses, some of uncertain authorship. His plays have been translated into every major living language and are performed
+William Shakespeare was an English playwright, poet, and actor who is considered one of the greatest writers in the English language. He wrote approximately 38 plays, including classics such as "Macbeth," "Romeo and Juliet," and "Hamlet." He also wrote 154 sonnets, which are some of the most famous poems in the English language. Shakespeare's work has been translated into more than 50 languages and his plays are performed more often than those of any other playwright., generate one short answer question but do not answer it: 
+1648780771 RESPONSE {"id"=>"cmpl-4s1UAkGpdX2K7N4FtkJA2PEnJwCZ7", "object"=>"text_completion", "created"=>1648780770, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\n\nWhat is the Bard of Avon?", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 
+1648780771 OUTPUT 
+
+What is the Bard of Avon? 
+1648780778 INPUT Shakespeare 
+1648780778 QUERY Is Shakespeare a correct answer to the following question: 
+
+What is the Bard of Avon?? Yes or no? 
+1648780779 RESPONSE {"id"=>"cmpl-4s1UJd1mel7Z274VhUA0OdvzHrtSt", "object"=>"text_completion", "created"=>1648780779, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\n\nYes", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 
+1648780779 OUTPUT 
+
+Yes 
+1648780779 OUTPUT Your score is 3 out of 4 
+1648780779 OUTPUT Choose another person? Y/N 
+1648781624 OUTPUT Goodbye! 

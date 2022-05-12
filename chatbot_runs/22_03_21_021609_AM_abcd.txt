@@ -1,0 +1,42 @@
+1647843369 PARAMETERS Max tokens: 50, Temperature: 0.4 
+1647843369 PROMPT Sounds good! Lets learn about abcd 
+1647843369 QUERY Who is abcd? 
+1647843369 RESPONSE {"choices"=>[{"text"=>"Hello"}]} 
+1647843369 PROMPT Hello 
+1647843369 QUERY Elaborate on abcd 
+1647843369 RESPONSE {"choices"=>[{"text"=>"Hello"}]} 
+1647843369 PROMPT Hello 
+1647843369 PROMPT What else can I tell you about abcd? 
+1647843369 PROMPT A. Tell me more about their life. 
+1647843369 PROMPT B. Tell me more about their accomplishments. 
+1647843369 PROMPT C. Tell me more about the time period they were alive during. 
+1647843369 PROMPT Or, ask me anything about abcd! 
+1647843374 INPUT A 
+1647843374 QUERY Tell me more about abcd's life 
+1647843374 RESPONSE {"choices"=>[{"text"=>"Hello"}]} 
+1647843374 PROMPT Hello 
+1647843374 PROMPT Time for a quiz! 
+1647843374 QUERY Based on the information we have learned about abcd, including HelloHelloHello, generate one true or false question but do not answer it: 
+1647843374 RESPONSE {"choices"=>[{"text"=>"Hello"}]} 
+1647843374 PROMPT Hello 
+1647843378 INPUT A 
+1647843378 QUERY Is A a correct answer to the following question: Hello? Yes or no? 
+1647843378 RESPONSE {"choices"=>[{"text"=>"Hello"}]} 
+1647843378 PROMPT Hello 
+1647843378 QUERY Based on the information we have learned about abcd, including HelloHelloHello, generate one multiple choice question but do not answer it: 
+1647843378 RESPONSE {"choices"=>[{"text"=>"Hello"}]} 
+1647843378 PROMPT Hello 
+1647843378 INPUT D 
+1647843378 QUERY Is D a correct answer to the following question: Hello? Yes or no? 
+1647843378 RESPONSE {"choices"=>[{"text"=>"Hello"}]} 
+1647843378 PROMPT Hello 
+1647843378 QUERY Based on the information we have learned about abcd, including HelloHelloHello, generate one short answer question but do not answer it: 
+1647843378 RESPONSE {"choices"=>[{"text"=>"Hello"}]} 
+1647843378 PROMPT Hello 
+1647843379 INPUT A 
+1647843379 QUERY Is A a correct answer to the following question: Hello? Yes or no? 
+1647843379 RESPONSE {"choices"=>[{"text"=>"Hello"}]} 
+1647843379 PROMPT Hello 
+1647843379 PROMPT Your score is 0 out of 4 
+1647843379 PROMPT Choose another person? Y/N 
+1647843381 PROMPT Goodbye! 

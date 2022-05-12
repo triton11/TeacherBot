@@ -1,0 +1,60 @@
+1647833106 Max tokens: 100, Temperature: 0.7 
+1647833106 Sounds good! Lets learn about Rafael Nadal 
+1647833106 ONE LINE SUMMARY 
+1647833107 {"id"=>"cmpl-4o2xHAm3PJBEfCIzgIaLQIGlMkrzs", "object"=>"text_completion", "created"=>1647833107, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\n\nRafael Nadal is a professional tennis player from Spain. He is widely considered to be one of the greatest players of all time.", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 
+1647833107 
+
+Rafael Nadal is a professional tennis player from Spain. He is widely considered to be one of the greatest players of all time. 
+1647833107 ELABORATION 
+1647833110 {"id"=>"cmpl-4o2xI8NTsDGt98umHdi1OPlmrbdqm", "object"=>"text_completion", "created"=>1647833108, "model"=>"text-davinci:002", "choices"=>[{"text"=>"'s playing style\n\nRafael Nadal is an aggressive baseline player who relies on his strong left-handed forehand and two-handed backhand to win points. He is known for his ability to hit very heavy topspin shots that make it difficult for opponents to control the ball. Nadal is also an exceptional clay court player, and his unique style of play has led to him being nicknamed \"The King of Clay.\"", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 
+1647833110 's playing style
+
+Rafael Nadal is an aggressive baseline player who relies on his strong left-handed forehand and two-handed backhand to win points. He is known for his ability to hit very heavy topspin shots that make it difficult for opponents to control the ball. Nadal is also an exceptional clay court player, and his unique style of play has led to him being nicknamed "The King of Clay." 
+1647833110 What else can I tell you about Rafael Nadal? 
+1647833110 A. Tell me more about their life! 
+1647833110 B. Tell me more about their accomplishments! 
+1647833110 C. Tell me more about the time period they were alive during! 
+1647833110 D. I have my own specific question about Rafael Nadal. 
+1647833136 B RESPONSE 
+1647833138 {"id"=>"cmpl-4o2xkKCi2rkV3Z02Io8FL6JRsfQmy", "object"=>"text_completion", "created"=>1647833136, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\n\nRafael Nadal has won 19 Grand Slam singles titles, the second most in history for a male player, as well as 35 ATP Tour Masters 1000 titles, 20 ATP Tour 500 titles, and the 2008 Olympic gold medal in singles. In majors, Nadal has won a record 12 French Open titles, four US Open titles, two Wimbledon titles, and one Australian Open title. He was also a member of the winning Spanish Davis Cup team in 2004, 2008, 2009, and", "index"=>0, "logprobs"=>nil, "finish_reason"=>"length"}]} 
+1647833138 
+
+Rafael Nadal has won 19 Grand Slam singles titles, the second most in history for a male player, as well as 35 ATP Tour Masters 1000 titles, 20 ATP Tour 500 titles, and the 2008 Olympic gold medal in singles. In majors, Nadal has won a record 12 French Open titles, four US Open titles, two Wimbledon titles, and one Australian Open title. He was also a member of the winning Spanish Davis Cup team in 2004, 2008, 2009, and 
+1647833138 Time for a quiz! 
+1647833138 TRUE OR FALSE QUESTION 
+1647833139 {"id"=>"cmpl-4o2xmE0httLzLnsDtM0ipzjZQ5aJa", "object"=>"text_completion", "created"=>1647833138, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\n\nRafael Nadal has won more Grand Slam singles titles than any other male player in history.", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 
+1647833139 
+
+Rafael Nadal has won more Grand Slam singles titles than any other male player in history. 
+1647833151 {"id"=>"cmpl-4o2xyxjO2DWa5GpEHq55j6Qr0qBlQ", "object"=>"text_completion", "created"=>1647833150, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\n\nNo, Rafael Nadal has not won more Grand Slam singles titles than any other male player in history.", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 
+1647833151 
+
+No, Rafael Nadal has not won more Grand Slam singles titles than any other male player in history. 
+1647833151 MULTIPLE CHOICE QUESTION 
+1647833154 {"id"=>"cmpl-4o2y0C3Hnr0U0qLEXeLoPcOqBcHzE", "object"=>"text_completion", "created"=>1647833152, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\n\nWhich of the following is not true about Rafael Nadal?\n\nA. He is widely considered to be one of the greatest players of all time.\nB. He has won 19 Grand Slam singles titles.\nC. He is an aggressive baseline player.\nD. He has won the Olympic gold medal in singles.\n\nE. He is a member of the winning Spanish Davis Cup team.", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 
+1647833154 
+
+Which of the following is not true about Rafael Nadal?
+
+A. He is widely considered to be one of the greatest players of all time.
+B. He has won 19 Grand Slam singles titles.
+C. He is an aggressive baseline player.
+D. He has won the Olympic gold medal in singles.
+
+E. He is a member of the winning Spanish Davis Cup team. 
+1647833194 {"id"=>"cmpl-4o2yfCmJpWEgGM7Y3PgEmsR57PxEi", "object"=>"text_completion", "created"=>1647833193, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\n\nE. He is a member of the winning Spanish Davis Cup team.", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 
+1647833194 
+
+E. He is a member of the winning Spanish Davis Cup team. 
+1647833194 SHORT ANSWER QUESTION 
+1647833198 {"id"=>"cmpl-4o2ygYrx1OLCKKhOB6k6J0VsbIRNS", "object"=>"text_completion", "created"=>1647833194, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\n\nWhat is Rafael Nadal's playing style?\n\nRafael Nadal is an aggressive baseline player who relies on his strong left-handed forehand and two-handed backhand to win points. He is known for his ability to hit very heavy topspin shots that make it difficult for opponents to control the ball. Nadal is also an exceptional clay court player, and his unique style of play has led to him being nicknamed \"The King of Clay.\"", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 
+1647833198 
+
+What is Rafael Nadal's playing style?
+
+Rafael Nadal is an aggressive baseline player who relies on his strong left-handed forehand and two-handed backhand to win points. He is known for his ability to hit very heavy topspin shots that make it difficult for opponents to control the ball. Nadal is also an exceptional clay court player, and his unique style of play has led to him being nicknamed "The King of Clay." 
+1647833215 {"id"=>"cmpl-4o2z1c2XRTer67AWGPvveQDKJ3iWU", "object"=>"text_completion", "created"=>1647833215, "model"=>"text-davinci:002", "choices"=>[{"text"=>"", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 
+1647833215  
+1647833215 Your score is 0 out of 4 
+1647833215 Choose another person? Y/N 
+1647833217 Goodbye! 

@@ -1,0 +1,71 @@
+1647832670 Sounds good! Lets learn about Lebron James 
+1647832670 ONE LINE SUMMARY 
+1647832672 {"id"=>"cmpl-4o2qFBEcw1Wng4ebdqURiUi0rJMpR", "object"=>"text_completion", "created"=>1647832671, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\n\nLebron James is a professional basketball player for the Los Angeles Lakers of the National Basketball Association (NBA).", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 
+1647832672 
+
+Lebron James is a professional basketball player for the Los Angeles Lakers of the National Basketball Association (NBA). 
+1647832672 ELABORATION 
+1647832675 {"id"=>"cmpl-4o2qGTNY3lWQsqvZWVt447ICfvHEi", "object"=>"text_completion", "created"=>1647832672, "model"=>"text-davinci:002", "choices"=>[{"text"=>"' Nike campaign\n\nLebron James is one of the most popular basketball players in the world, and his Nike campaign is one of the most successful athlete endorsements in history. The campaign, which began in 2003, has been incredibly successful in terms of both sales and marketing. The ads feature Lebron in a variety of different settings, including playing streetball and dunking on a basketball hoop. The tagline for the campaign is \"We Are All Witnesses,\" which is meant to inspire people", "index"=>0, "logprobs"=>nil, "finish_reason"=>"length"}]} 
+1647832675 ' Nike campaign
+
+Lebron James is one of the most popular basketball players in the world, and his Nike campaign is one of the most successful athlete endorsements in history. The campaign, which began in 2003, has been incredibly successful in terms of both sales and marketing. The ads feature Lebron in a variety of different settings, including playing streetball and dunking on a basketball hoop. The tagline for the campaign is "We Are All Witnesses," which is meant to inspire people 
+1647832675 What else can I tell you about Lebron James? 
+1647832675 A. Tell me more about their life! 
+1647832675 B. Tell me more about their accomplishments! 
+1647832675 C. Tell me more about the time period they were alive during! 
+1647832675 D. I have my own specific question about Lebron James. 
+1647832698 A RESPONSE 
+1647832700 {"id"=>"cmpl-4o2qgyDA8RS1pp91rMpM2iiFEb1W0", "object"=>"text_completion", "created"=>1647832698, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\n\nLebron James was born on December 30, 1984, in Akron, Ohio. He was raised by his mother, Gloria James, and has two older siblings. Lebron James started playing organized basketball when he was nine years old. He played Amateur Athletic Union (AAU) basketball for the Northeast Ohio Shooting Stars. The team was coached by James' future high school coach, Dru Joyce III. Lebron James attended St. Vincent–St. Mary High School in Akron,", "index"=>0, "logprobs"=>nil, "finish_reason"=>"length"}]} 
+1647832700 
+
+Lebron James was born on December 30, 1984, in Akron, Ohio. He was raised by his mother, Gloria James, and has two older siblings. Lebron James started playing organized basketball when he was nine years old. He played Amateur Athletic Union (AAU) basketball for the Northeast Ohio Shooting Stars. The team was coached by James' future high school coach, Dru Joyce III. Lebron James attended St. Vincent–St. Mary High School in Akron, 
+1647832700 Time for a quiz! 
+1647832700 TRUE OR FALSE QUESTION 
+1647832700 {"id"=>"cmpl-4o2qiZH285Wlx8HdzvuAQHzX40pJ7", "object"=>"text_completion", "created"=>1647832700, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\n\nLebron James was born in Los Angeles, California.", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 
+1647832700 
+
+Lebron James was born in Los Angeles, California. 
+1647832709 {"id"=>"cmpl-4o2qrN9h7E18VvYg3EgjZcLOEuhIF", "object"=>"text_completion", "created"=>1647832709, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\n\nNo, Lebron James was born in Akron, Ohio.", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 
+1647832709 
+
+No, Lebron James was born in Akron, Ohio. 
+1647832709 MULTIPLE CHOICE QUESTION 
+1647832711 {"id"=>"cmpl-4o2qra1ZKDpaJ1xaY9AFZ2SGlfpWV", "object"=>"text_completion", "created"=>1647832709, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\n\n1. What is the name of Lebron James' current team?\n\na. Los Angeles Lakers\nb. Cleveland Cavaliers\nc. Miami Heat\nd. Boston Celtics\n\n2. What is the name of the campaign that Lebron James is most famous for?\n\na. Nike\nb. Adidas\nc. Under Armour\nd. Reebok\n\n3. What year was Lebron James born?\n\na. 1984\nb", "index"=>0, "logprobs"=>nil, "finish_reason"=>"length"}]} 
+1647832711 
+
+1. What is the name of Lebron James' current team?
+
+a. Los Angeles Lakers
+b. Cleveland Cavaliers
+c. Miami Heat
+d. Boston Celtics
+
+2. What is the name of the campaign that Lebron James is most famous for?
+
+a. Nike
+b. Adidas
+c. Under Armour
+d. Reebok
+
+3. What year was Lebron James born?
+
+a. 1984
+b 
+1647832733 {"id"=>"cmpl-4o2rE0RHJyjUBvKL5Cc8OCdGJmVny", "object"=>"text_completion", "created"=>1647832732, "model"=>"text-davinci:002", "choices"=>[{"text"=>" 1986\nc. 1988\nd. 1990\n\n1. Los Angeles Lakers\n2. Nike", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 
+1647832733  1986
+c. 1988
+d. 1990
+
+1. Los Angeles Lakers
+2. Nike 
+1647832733 SHORT ANSWER QUESTION 
+1647832734 {"id"=>"cmpl-4o2rF3TfHUeiuxdmHFSZE7JvztpVM", "object"=>"text_completion", "created"=>1647832733, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\n\nWho is Lebron James?", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 
+1647832734 
+
+Who is Lebron James? 
+1647832746 {"id"=>"cmpl-4o2rSYsRm25tE9f8qArVtIkYPcBiB", "object"=>"text_completion", "created"=>1647832746, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\n\nYes, Lebron James is a famous basketball player.", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 
+1647832746 
+
+Yes, Lebron James is a famous basketball player. 
+1647832746 Your score is 2 out of 4 
+1647832746 Choose another person? Y/N 

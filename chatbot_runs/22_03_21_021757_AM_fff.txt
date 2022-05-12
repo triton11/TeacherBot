@@ -1,0 +1,42 @@
+1647843477 PARAMETERS Max tokens: 50, Temperature: 0.4 
+1647843477 OUTPUT Sounds good! Lets learn about fff 
+1647843477 QUERY Who is fff? 
+1647843477 RESPONSE {"choices"=>[{"text"=>"Hello"}]} 
+1647843477 OUTPUT Hello 
+1647843477 QUERY Elaborate on fff 
+1647843477 RESPONSE {"choices"=>[{"text"=>"Hello"}]} 
+1647843477 OUTPUT Hello 
+1647843477 OUTPUT What else can I tell you about fff? 
+1647843477 OUTPUT A. Tell me more about their life. 
+1647843477 OUTPUT B. Tell me more about their accomplishments. 
+1647843477 OUTPUT C. Tell me more about the time period they were alive during. 
+1647843477 OUTPUT Or, ask me anything about fff! 
+1647843478 INPUT f 
+1647843478 QUERY Answer the following question about fff: f? 
+1647843478 RESPONSE {"choices"=>[{"text"=>"Hello"}]} 
+1647843478 OUTPUT Hello 
+1647843478 OUTPUT Time for a quiz! 
+1647843478 QUERY Based on the information we have learned about fff, including HelloHelloHello, generate one true or false question but do not answer it: 
+1647843478 RESPONSE {"choices"=>[{"text"=>"Hello"}]} 
+1647843478 OUTPUT Hello 
+1647843479 INPUT fff 
+1647843479 QUERY Is fff a correct answer to the following question: Hello? Yes or no? 
+1647843479 RESPONSE {"choices"=>[{"text"=>"Hello"}]} 
+1647843479 OUTPUT Hello 
+1647843479 QUERY Based on the information we have learned about fff, including HelloHelloHello, generate one multiple choice question but do not answer it: 
+1647843479 RESPONSE {"choices"=>[{"text"=>"Hello"}]} 
+1647843479 OUTPUT Hello 
+1647843481 INPUT ffff 
+1647843481 QUERY Is ffff a correct answer to the following question: Hello? Yes or no? 
+1647843481 RESPONSE {"choices"=>[{"text"=>"Hello"}]} 
+1647843481 OUTPUT Hello 
+1647843481 QUERY Based on the information we have learned about fff, including HelloHelloHello, generate one short answer question but do not answer it: 
+1647843481 RESPONSE {"choices"=>[{"text"=>"Hello"}]} 
+1647843481 OUTPUT Hello 
+1647843482 INPUT ffffff 
+1647843482 QUERY Is ffffff a correct answer to the following question: Hello? Yes or no? 
+1647843482 RESPONSE {"choices"=>[{"text"=>"Hello"}]} 
+1647843482 OUTPUT Hello 
+1647843482 OUTPUT Your score is 0 out of 4 
+1647843482 OUTPUT Choose another person? Y/N 
+1647843483 OUTPUT Goodbye! 

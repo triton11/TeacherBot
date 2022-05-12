@@ -1,0 +1,103 @@
+1648781656 PARAMETERS Max tokens: 50, Temperature: 0.4 
+1648781656 OUTPUT Sounds good! Lets learn about Chris Bosh 
+1648781656 QUERY Who was Barack Obama?
+ Barack Obama was the 44th president of the United States (2009–17) and the first African American to hold the office. Before winning the presidency, Obama represented Illinois in the U.S. Senate (2005–08). He was the third African American to be elected to that body since the end of Reconstruction (1877). In 2009 he was awarded the Nobel Peace Prize for his extraordinary efforts to strengthen international diplomacy and cooperation between peoples.
+ Who is Chris Bosh?
+ 
+1648781659 RESPONSE {"id"=>"cmpl-4s1iTgY16uw7UdWCqs7H0CsAH9mKG", "object"=>"text_completion", "created"=>1648781657, "model"=>"text-davinci:002", "choices"=>[{"text"=>"Chris Bosh is a retired American professional basketball player. He played 14 seasons in the National Basketball Association (NBA), where he was an eleven-time NBA All-Star and a two-time NBA champion.", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 
+1648781659 OUTPUT Chris Bosh is a retired American professional basketball player. He played 14 seasons in the National Basketball Association (NBA), where he was an eleven-time NBA All-Star and a two-time NBA champion. 
+1648781659 OUTPUT What else can I tell you about Chris Bosh? 
+1648781659 OUTPUT A. Tell me more about their life. 
+1648781659 OUTPUT B. Tell me more about their accomplishments. 
+1648781659 OUTPUT C. Tell me more about the time period they were alive during. 
+1648781659 OUTPUT Or, ask me anything about Chris Bosh! 
+1648781666 INPUT A 
+1648781666 QUERY Tell me more about Barack Obama's life:
+ The son of a white American mother and a black Kenyan father, Obama grew up in Hawaii. Leaving the state to attend college, he earned degrees from Columbia University and Harvard Law School. Obama worked as a community organizer in Chicago, where he met and married Michelle LaVaughn Robinson in 1992. Their two daughters, Malia Ann and Natasha (Sasha), were born in 1998 and 2001, respectively. Obama was elected to the Illinois state senate in 1996 and served there for eight years. In 2004, he was elected by a record majority to the US Senate from Illinois and, in February 2007, announced his candidacy for president. After winning a closely fought contest against New York Senator and former First Lady Hillary Rodham Clinton for the Democratic nomination, Obama handily defeated Senator John McCain of Arizona, the Republican nominee for president, in the general election.
+ Tell me more about Chris Bosh's life:
+ 
+1648781669 RESPONSE {"id"=>"cmpl-4s1icvs5pybxoGnkqhqXBffAQBkY1", "object"=>"text_completion", "created"=>1648781666, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\nChris Bosh was born in Dallas, Texas, and grew up in Toronto, Canada. He played basketball for the Toronto Raptors from 2003 to 2010, before joining the Miami Heat. Bosh won two NBA championships with the Heat in 2012 and 2013. He was named an All-Star nine times during his career. Bosh also played for Team USA at the 2008 and 2012 Olympic Games.", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 
+1648781669 OUTPUT 
+Chris Bosh was born in Dallas, Texas, and grew up in Toronto, Canada. He played basketball for the Toronto Raptors from 2003 to 2010, before joining the Miami Heat. Bosh won two NBA championships with the Heat in 2012 and 2013. He was named an All-Star nine times during his career. Bosh also played for Team USA at the 2008 and 2012 Olympic Games. 
+1648781669 OUTPUT Time for a quiz! 
+1648781669 QUERY Based on the information we have learned about Barack Obama, generate one true or false question but do not answer it:
+ True or False: Barack Obama was born in Hawaii.
+Based on the information we have learned about Chris Bosh, including Chris Bosh is a retired American professional basketball player. He played 14 seasons in the National Basketball Association (NBA), where he was an eleven-time NBA All-Star and a two-time NBA champion.
+Chris Bosh was born in Dallas, Texas, and grew up in Toronto, Canada. He played basketball for the Toronto Raptors from 2003 to 2010, before joining the Miami Heat. Bosh won two NBA championships with the Heat in 2012 and 2013. He was named an All-Star nine times during his career. Bosh also played for Team USA at the 2008 and 2012 Olympic Games., generate one true or false question but do not answer it: 
+1648781670 RESPONSE {"id"=>"cmpl-4s1ifE2UGJDbdj5wC0k0bJw6mRxek", "object"=>"text_completion", "created"=>1648781669, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\n True or False: Chris Bosh won two Olympic gold medals.", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 
+1648781670 OUTPUT 
+ True or False: Chris Bosh won two Olympic gold medals. 
+1648781687 INPUT False 
+1648781687 QUERY Is "True" a correct answer to the following question: 
+True or False: Barack Obama was born in Hawaii.
+True is correct
+Is "False" a correct answer to the following question: 
+ True or False: Chris Bosh won two Olympic gold medals.? Yes or no? 
+1648781688 RESPONSE {"id"=>"cmpl-4s1ix8PmF5Eqqidi4RPqaJ7waurb5", "object"=>"text_completion", "created"=>1648781687, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\n\nFalse is correct", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 
+1648781688 OUTPUT 
+
+False is correct 
+1648781688 QUERY Based on the information we have learned about Barack Obama, generate one multiple choice question but do not answer it:
+ Where was Barack Obama born?
+ A. Oregon
+ B. New York
+ C. Hawaii
+ D. California
+Based on the information we have learned about Chris Bosh, including Chris Bosh is a retired American professional basketball player. He played 14 seasons in the National Basketball Association (NBA), where he was an eleven-time NBA All-Star and a two-time NBA champion.
+Chris Bosh was born in Dallas, Texas, and grew up in Toronto, Canada. He played basketball for the Toronto Raptors from 2003 to 2010, before joining the Miami Heat. Bosh won two NBA championships with the Heat in 2012 and 2013. He was named an All-Star nine times during his career. Bosh also played for Team USA at the 2008 and 2012 Olympic Games., generate one multiple choice question but do not answer it: 
+1648781689 RESPONSE {"id"=>"cmpl-4s1iyU3IomL64bLqPaLutIjUkiN3l", "object"=>"text_completion", "created"=>1648781688, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\n\nWhat country did Chris Bosh represent in the 2008 and 2012 Olympic Games?\n\nA. United States\n\nB. Canada\n\nC. Mexico\n\nD. Puerto Rico", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 
+1648781689 OUTPUT 
+
+What country did Chris Bosh represent in the 2008 and 2012 Olympic Games?
+
+A. United States
+
+B. Canada
+
+C. Mexico
+
+D. Puerto Rico 
+1648781693 INPUT A 
+1648781693 QUERY Is "D" a correct answer to the following question: 
+ Where was Barack Obama born?
+ A. Oregon
+ B. New York
+ C. Hawaii
+ D. California
+ D is incorrect
+Is "A" a correct answer to the following question: 
+
+What country did Chris Bosh represent in the 2008 and 2012 Olympic Games?
+
+A. United States
+
+B. Canada
+
+C. Mexico
+
+D. Puerto Rico? Yes or no? 
+1648781694 RESPONSE {"id"=>"cmpl-4s1j4Nx1Cf3YvFGaQiQOs4SNNult3", "object"=>"text_completion", "created"=>1648781694, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\n\nA. is correct", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 
+1648781694 OUTPUT 
+
+A. is correct 
+1648781694 QUERY Based on the information we have learned about Barack Obama, generate one free response question but do not answer it:
+ What did Obama do to combat global warming?
+Based on the information we have learned about Chris Bosh, including Chris Bosh is a retired American professional basketball player. He played 14 seasons in the National Basketball Association (NBA), where he was an eleven-time NBA All-Star and a two-time NBA champion.
+Chris Bosh was born in Dallas, Texas, and grew up in Toronto, Canada. He played basketball for the Toronto Raptors from 2003 to 2010, before joining the Miami Heat. Bosh won two NBA championships with the Heat in 2012 and 2013. He was named an All-Star nine times during his career. Bosh also played for Team USA at the 2008 and 2012 Olympic Games., generate one short answer question but do not answer it: 
+1648781696 RESPONSE {"id"=>"cmpl-4s1j54HYdzoNc5kHc7ItviCQok6pA", "object"=>"text_completion", "created"=>1648781695, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\n\nWhat was Chris Bosh's greatest accomplishment in his basketball career?", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 
+1648781696 OUTPUT 
+
+What was Chris Bosh's greatest accomplishment in his basketball career? 
+1648781716 INPUT Probably his back to back NBA championships 
+1648781716 QUERY Is "Obama combated global warming by getting 195 countries to adopt a climate change agreement" a correct answer to the following question: What did Obama do to combat global warming?
+ That answer is correct
+Is "Probably his back to back NBA championships" a correct answer to the following question: 
+
+What was Chris Bosh's greatest accomplishment in his basketball career?? Yes or no? 
+1648781717 RESPONSE {"id"=>"cmpl-4s1jQGkpjp4BMwxsDJMe7F42PRGf8", "object"=>"text_completion", "created"=>1648781716, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\n\nNo, that answer is not correct.", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 
+1648781717 OUTPUT 
+
+No, that answer is not correct. 
+1648781717 OUTPUT Your score is 2 out of 4 
+1648781717 OUTPUT Choose another person? Y/N 
+1648781723 OUTPUT Goodbye! 

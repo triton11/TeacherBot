@@ -1,0 +1,104 @@
+1648784542 PARAMETERS Max tokens: 50, Temperature: 0.4 
+1648784542 OUTPUT Sounds good! Lets learn about Wayne Gretzki 
+1648784542 QUERY Who was Barack Obama?
+ Barack Obama was the 44th president of the United States (2009–17) and the first African American to hold the office. Before winning the presidency, Obama represented Illinois in the U.S. Senate (2005–08). He was the third African American to be elected to that body since the end of Reconstruction (1877). In 2009 he was awarded the Nobel Peace Prize for his extraordinary efforts to strengthen international diplomacy and cooperation between peoples.
+ Who is Wayne Gretzki?
+ 
+1648784544 RESPONSE {"id"=>"cmpl-4s2T07p21GMuCeN7QqST8q827e8Vl", "object"=>"text_completion", "created"=>1648784542, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\nWayne Gretzky is a former professional ice hockey player who is widely regarded as one of the greatest players of all time. He played 20 seasons in the National Hockey League (NHL) for four teams from 1979 to 1999. He is the leading scorer in NHL history, with more goals and assists than any other player.", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 
+1648784544 OUTPUT 
+Wayne Gretzky is a former professional ice hockey player who is widely regarded as one of the greatest players of all time. He played 20 seasons in the National Hockey League (NHL) for four teams from 1979 to 1999. He is the leading scorer in NHL history, with more goals and assists than any other player. 
+1648784544 OUTPUT What else can I tell you about Wayne Gretzki? 
+1648784544 OUTPUT A. Tell me more about their life. 
+1648784544 OUTPUT B. Tell me more about their accomplishments. 
+1648784544 OUTPUT C. Tell me more about the time period they were alive during. 
+1648784544 OUTPUT Or, ask me anything about Wayne Gretzki! 
+1648784571 INPUT Which teams did Wayne Gretzky play for? 
+1648784571 QUERY Answer the following question about Barack Obama: Who is Obama married to?
+ Barack Obama is married to Michelle Obama. First Lady Michelle LaVaughn Robinson Obama is a lawyer and a writer. She is the first African-American First Lady of the United States. Through her four main initiatives, she became a role model for women and an advocate for healthy families, service members and their families, higher education, and international adolescent girls education.
+ Answer the following question about Wayne Gretzki: Which teams did Wayne Gretzky play for?? 
+1648784573 RESPONSE {"id"=>"cmpl-4s2TU6fk3LnQ1J0NhNjXXA5BYloG7", "object"=>"text_completion", "created"=>1648784572, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\n\nWayne Gretzky played for the Edmonton Oilers, the Los Angeles Kings, the St. Louis Blues, and the New York Rangers.", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 
+1648784573 OUTPUT 
+
+Wayne Gretzky played for the Edmonton Oilers, the Los Angeles Kings, the St. Louis Blues, and the New York Rangers. 
+1648784573 OUTPUT Time for a quiz! 
+1648784573 QUERY Based on the information we have learned about Barack Obama, generate one true or false question but do not answer it:
+ True or False: Barack Obama was born in Hawaii.
+Based on the information we have learned about Wayne Gretzki, including 
+Wayne Gretzky is a former professional ice hockey player who is widely regarded as one of the greatest players of all time. He played 20 seasons in the National Hockey League (NHL) for four teams from 1979 to 1999. He is the leading scorer in NHL history, with more goals and assists than any other player.
+
+Wayne Gretzky played for the Edmonton Oilers, the Los Angeles Kings, the St. Louis Blues, and the New York Rangers., generate one true or false question but do not answer it: 
+1648784574 RESPONSE {"id"=>"cmpl-4s2TVQIyKk81f6MbWrE3T9wibtLSb", "object"=>"text_completion", "created"=>1648784573, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\n\nTrue or False: Wayne Gretzky was born in the United States.", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 
+1648784574 OUTPUT 
+
+True or False: Wayne Gretzky was born in the United States. 
+1648784593 INPUT True 
+1648784593 QUERY Is "True" a correct answer to the following question: 
+True or False: Barack Obama was born in Hawaii.
+True is correct
+Is "True" a correct answer to the following question: 
+
+True or False: Wayne Gretzky was born in the United States.? Yes or no? 
+1648784594 RESPONSE {"id"=>"cmpl-4s2TpqrnajrvB49nOibZvC9SMa33M", "object"=>"text_completion", "created"=>1648784593, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\n\nNo", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 
+1648784594 OUTPUT 
+
+No 
+1648784594 QUERY Based on the information we have learned about Barack Obama, generate one multiple choice question but do not answer it:
+ Where was Barack Obama born?
+ A. Oregon
+ B. New York
+ C. Hawaii
+ D. California
+Based on the information we have learned about Wayne Gretzki, including 
+Wayne Gretzky is a former professional ice hockey player who is widely regarded as one of the greatest players of all time. He played 20 seasons in the National Hockey League (NHL) for four teams from 1979 to 1999. He is the leading scorer in NHL history, with more goals and assists than any other player.
+
+Wayne Gretzky played for the Edmonton Oilers, the Los Angeles Kings, the St. Louis Blues, and the New York Rangers., generate one multiple choice question but do not answer it: 
+1648784595 RESPONSE {"id"=>"cmpl-4s2TqVFIwBJTv8GEQr7VwoqtC056b", "object"=>"text_completion", "created"=>1648784594, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\n\nHow many teams did Wayne Gretzky play for during his 20 season NHL career?\nA. 2\nB. 3\nC. 4\nD. 5", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 
+1648784595 OUTPUT 
+
+How many teams did Wayne Gretzky play for during his 20 season NHL career?
+A. 2
+B. 3
+C. 4
+D. 5 
+1648784608 INPUT C. 4 
+1648784608 QUERY Is "D" a correct answer to the following question: 
+ Where was Barack Obama born?
+ A. Oregon
+ B. New York
+ C. Hawaii
+ D. California
+ D is incorrect
+Is "C. 4" a correct answer to the following question: 
+
+How many teams did Wayne Gretzky play for during his 20 season NHL career?
+A. 2
+B. 3
+C. 4
+D. 5? Yes or no? 
+1648784609 RESPONSE {"id"=>"cmpl-4s2U4PBn99oqSq8xTyi0LNUOMlltJ", "object"=>"text_completion", "created"=>1648784608, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\n\nC. 4 is correct.", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 
+1648784609 OUTPUT 
+
+C. 4 is correct. 
+1648784609 QUERY Based on the information we have learned about Barack Obama, generate one free response question but do not answer it:
+ What did Obama do to combat global warming?
+Based on the information we have learned about Wayne Gretzki, including 
+Wayne Gretzky is a former professional ice hockey player who is widely regarded as one of the greatest players of all time. He played 20 seasons in the National Hockey League (NHL) for four teams from 1979 to 1999. He is the leading scorer in NHL history, with more goals and assists than any other player.
+
+Wayne Gretzky played for the Edmonton Oilers, the Los Angeles Kings, the St. Louis Blues, and the New York Rangers., generate one short answer question but do not answer it: 
+1648784610 RESPONSE {"id"=>"cmpl-4s2U5ZDzeofy7Uz2CCXtAkCBEONK1", "object"=>"text_completion", "created"=>1648784609, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\n\nWhat team did Wayne Gretzky play for when he won his first Stanley Cup?", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 
+1648784610 OUTPUT 
+
+What team did Wayne Gretzky play for when he won his first Stanley Cup? 
+1648784627 INPUT The New York Rangers 
+1648784627 QUERY Is "Obama combated global warming by getting 195 countries to adopt a climate change agreement" a correct answer to the following question: What did Obama do to combat global warming?
+ That answer is correct
+Is "The New York Rangers" a correct answer to the following question: 
+
+What team did Wayne Gretzky play for when he won his first Stanley Cup?? Yes or no? 
+1648784628 RESPONSE {"id"=>"cmpl-4s2UNphSYBjU07YgEGfmCzSUNLce4", "object"=>"text_completion", "created"=>1648784627, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\n\nNo", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 
+1648784628 OUTPUT 
+
+No 
+1648784628 OUTPUT Your score is 1 out of 4 
+1648784628 OUTPUT Choose another person? Y/N 
+1648784648 OUTPUT Goodbye! 

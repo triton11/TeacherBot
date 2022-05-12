@@ -1,0 +1,28 @@
+1647832127 Sounds good! Lets learn about George Washington 
+1647832127 ONE LINE SUMMARY 
+1647832128 {"id"=>"cmpl-4o2hT6O4NTgHXcgZm5JVL6fvCmxhu", "object"=>"text_completion", "created"=>1647832127, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\n\nGeorge Washington was the first President of the United States.", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 
+1647832128 
+
+George Washington was the first President of the United States. 
+1647832128 ELABORATION 
+1647832129 {"id"=>"cmpl-4o2hUHnyRYBq59w0V0Isc14Kp4CUW", "object"=>"text_completion", "created"=>1647832128, "model"=>"text-davinci:002", "choices"=>[{"text"=>"'s military experience\n\nGeorge Washington's military experience began in the French and Indian War, where he served as a colonel in the Virginia militia. He was later appointed commander-in-chief of the Continental Army during the American Revolution. Washington is considered one of the most successful military commanders in history, and his leadership during", "index"=>0, "logprobs"=>nil, "finish_reason"=>"length"}]} 
+1647832129 's military experience
+
+George Washington's military experience began in the French and Indian War, where he served as a colonel in the Virginia militia. He was later appointed commander-in-chief of the Continental Army during the American Revolution. Washington is considered one of the most successful military commanders in history, and his leadership during 
+1647832129 What else can I tell you about George Washington? 
+1647832129 A. Tell me more about their life! 
+1647832129 B. Tell me more about their accomplishments! 
+1647832129 C. Tell me more about the time period they were alive during! 
+1647832129 D. I have my own specific question about George Washington. 
+1647832153 C RESPONSE 
+1647832155 {"id"=>"cmpl-4o2htEp1FjRyMz3qQNs0zmrVRLYEB", "object"=>"text_completion", "created"=>1647832153, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\n\nThe time period George Washington was alive during was the late 18th century and early 19th century. This was a time of great change in the United States, as the country was just beginning to form its own identity. Washington was instrumental in shaping the young nation, and his leadership helped to ensure its success.", "index"=>0, "logprobs"=>nil, "finish_reason"=>"length"}]} 
+1647832155 
+
+The time period George Washington was alive during was the late 18th century and early 19th century. This was a time of great change in the United States, as the country was just beginning to form its own identity. Washington was instrumental in shaping the young nation, and his leadership helped to ensure its success. 
+1647832155 Time for a quiz! 
+1647832155 TRUE OR FALSE QUESTION 
+1647832156 {"id"=>"cmpl-4o2hvtOJjfn4ag7Tc4N29fOfosANO", "object"=>"text_completion", "created"=>1647832155, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\n\nGeorge Washington was the first President of the United States. (True)", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 
+1647832156 
+
+George Washington was the first President of the United States. (True) 
+1647832167 {"id"=>"cmpl-4o2i7Jl1yGPYwtVrHgb0h7SsdgJo9", "object"=>"text_completion", "created"=>1647832167, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\n\nYes, True is a correct answer to the question.", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 

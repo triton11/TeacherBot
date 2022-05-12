@@ -1,0 +1,44 @@
+1647833845 Max tokens: 50, Temperature: 0.4 
+1647833845 Sounds good! Lets learn about Joan of Arc 
+1647833845 ONE LINE SUMMARY 
+1647833845 Who is Joan of Arc? 
+1647833846 {"id"=>"cmpl-4o39BjwNkgCZj4dDFuCOGi43eEbrF", "object"=>"text_completion", "created"=>1647833845, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\n\nJoan of Arc was a French military leader who fought in the Hundred Years' War. She is a saint of the Catholic Church.", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 
+1647833846 Joan of Arc was a French military leader who fought in the Hundred Years' War. She is a saint of the Catholic Church. 
+1647833846 ELABORATION 
+1647833846 Elaborate on Joan of Arc 
+1647833848 {"id"=>"cmpl-4o39CV9n5Qmyg3nvIp1iRy57Garrq", "object"=>"text_completion", "created"=>1647833846, "model"=>"text-davinci:002", "choices"=>[{"text"=>"'s childhood\n\nJoan of Arc was born in 1412 in the village of Domremy, in the eastern part of France. Her parents were Jacques d'Arc and his wife, Isabelle. Joan had three older brothers and a younger sister. Jacques d'Arc was a tenant farmer, who owned a small piece of land. The family was not wealthy, but they were not poor either. Joan was a bright and happy child, who loved to play with the other children in the", "index"=>0, "logprobs"=>nil, "finish_reason"=>"length"}]} 
+1647833848 's childhoodJoan of Arc was born in 1412 in the village of Domremy, in the eastern part of France. Her parents were Jacques d'Arc and his wife, Isabelle. Joan had three older brothers and a younger sister. Jacques d'Arc was a tenant farmer, who owned a small piece of land. The family was not wealthy, but they were not poor either. Joan was a bright and happy child, who loved to play with the other children in the 
+1647833848 What else can I tell you about Joan of Arc? 
+1647833848 A. Tell me more about their life. 
+1647833848 B. Tell me more about their accomplishments. 
+1647833848 C. Tell me more about the time period they were alive during. 
+1647833848 Or, ask me anything about Joan of Arc! 
+1647833861 C RESPONSE 
+1647833861 Tell me more about the time period Joan of Arc was alive during 
+1647833862 {"id"=>"cmpl-4o39RUK2JVqSbCRAYziwnwAjg4aOA", "object"=>"text_completion", "created"=>1647833861, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\n\nThe time period Joan of Arc was alive during is called the Hundred Years' War. This was a series of conflicts between England and France that lasted for over 100 years.", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 
+1647833862 The time period Joan of Arc was alive during is called the Hundred Years' War. This was a series of conflicts between England and France that lasted for over 100 years. 
+1647833862 Time for a quiz! 
+1647833862 TRUE OR FALSE QUESTION 
+1647833862 Based on the information we have learned about Joan of Arc, including Joan of Arc was a French military leader who fought in the Hundred Years' War. She is a saint of the Catholic Church., 's childhoodJoan of Arc was born in 1412 in the village of Domremy, in the eastern part of France. Her parents were Jacques d'Arc and his wife, Isabelle. Joan had three older brothers and a younger sister. Jacques d'Arc was a tenant farmer, who owned a small piece of land. The family was not wealthy, but they were not poor either. Joan was a bright and happy child, who loved to play with the other children in the and The time period Joan of Arc was alive during is called the Hundred Years' War. This was a series of conflicts between England and France that lasted for over 100 years., generate one true or false question but do not answer it: 
+1647833863 {"id"=>"cmpl-4o39TgSaVu0TeDckJ7Wf977KsnUFR", "object"=>"text_completion", "created"=>1647833863, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\n\nJoan of Arc was born in a wealthy family.", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 
+1647833863 Joan of Arc was born in a wealthy family. 
+1647833878 Is False a correct answer to the following question: Joan of Arc was born in a wealthy family.? Yes or no? 
+1647833879 {"id"=>"cmpl-4o39iMs5YzrZJDcL6scKUN4Dbiagm", "object"=>"text_completion", "created"=>1647833878, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\n\nNo", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 
+1647833879 No 
+1647833879 MULTIPLE CHOICE QUESTION 
+1647833879 Based on the information we have learned about Joan of Arc, including Joan of Arc was a French military leader who fought in the Hundred Years' War. She is a saint of the Catholic Church., 's childhoodJoan of Arc was born in 1412 in the village of Domremy, in the eastern part of France. Her parents were Jacques d'Arc and his wife, Isabelle. Joan had three older brothers and a younger sister. Jacques d'Arc was a tenant farmer, who owned a small piece of land. The family was not wealthy, but they were not poor either. Joan was a bright and happy child, who loved to play with the other children in the and The time period Joan of Arc was alive during is called the Hundred Years' War. This was a series of conflicts between England and France that lasted for over 100 years., generate one multiple choice question but do not answer it: 
+1647833880 {"id"=>"cmpl-4o39j8IZBNyoXj0PIQMwGpHByEEbk", "object"=>"text_completion", "created"=>1647833879, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\n\nWho was Joan of Arc's mother?\n\nA. Joan of Arc\n\nB. Isabelle\n\nC. Jacques d'Arc\n\nD. Domremy", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 
+1647833880 Who was Joan of Arc's mother?A. Joan of ArcB. IsabelleC. Jacques d'ArcD. Domremy 
+1647833900 Is B. Isabelle a correct answer to the following question: Who was Joan of Arc's mother?A. Joan of ArcB. IsabelleC. Jacques d'ArcD. Domremy? Yes or no? 
+1647833901 {"id"=>"cmpl-4o3A4qJ8oZ9fC8nwElNJrrFiqJsSs", "object"=>"text_completion", "created"=>1647833900, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\n\nYes, B. Isabelle is the correct answer.", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 
+1647833901 Yes, B. Isabelle is the correct answer. 
+1647833901 SHORT ANSWER QUESTION 
+1647833901 Based on the information we have learned about Joan of Arc, including Joan of Arc was a French military leader who fought in the Hundred Years' War. She is a saint of the Catholic Church., 's childhoodJoan of Arc was born in 1412 in the village of Domremy, in the eastern part of France. Her parents were Jacques d'Arc and his wife, Isabelle. Joan had three older brothers and a younger sister. Jacques d'Arc was a tenant farmer, who owned a small piece of land. The family was not wealthy, but they were not poor either. Joan was a bright and happy child, who loved to play with the other children in the and The time period Joan of Arc was alive during is called the Hundred Years' War. This was a series of conflicts between England and France that lasted for over 100 years., generate one short answer question but do not answer it: 
+1647833902 {"id"=>"cmpl-4o3A5G8JwSi4l2JtliZVPF7SMZvs4", "object"=>"text_completion", "created"=>1647833901, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\n\nWhat was the main conflict during the Hundred Years' War?", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 
+1647833902 What was the main conflict during the Hundred Years' War? 
+1647833931 Is Not sure a correct answer to the following question: What was the main conflict during the Hundred Years' War?? Yes or no? 
+1647833932 {"id"=>"cmpl-4o3AZKXv8ceXruPTw1D6fp03S3lyB", "object"=>"text_completion", "created"=>1647833931, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\n\nThe main conflict during the Hundred Years' War was between the House of Plantagenet, ruling England, and the House of Valois, ruling France.", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 
+1647833932 The main conflict during the Hundred Years' War was between the House of Plantagenet, ruling England, and the House of Valois, ruling France. 
+1647833932 Your score is 1 out of 4 
+1647833932 Choose another person? Y/N 
+1647833938 Goodbye! 

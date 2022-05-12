@@ -1,0 +1,65 @@
+1647833312 Max tokens: 50, Temperature: 0.4 
+1647833312 Sounds good! Lets learn about Rosa Parks 
+1647833312 ONE LINE SUMMARY 
+1647833313 {"id"=>"cmpl-4o30aXKbLISNODeIDKxbOFVyixBt4", "object"=>"text_completion", "created"=>1647833312, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\n\nRosa Parks was an African American civil rights activist who is best known for her role in the Montgomery bus boycott.", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 
+1647833313 
+
+Rosa Parks was an African American civil rights activist who is best known for her role in the Montgomery bus boycott. 
+1647833313 ELABORATION 
+1647833314 {"id"=>"cmpl-4o30bLuzs9yjotnWDfdHpXVE5EgaY", "object"=>"text_completion", "created"=>1647833313, "model"=>"text-davinci:002", "choices"=>[{"text"=>"’s arrest\n\nRosa Parks was arrested for refusing to give up her bus seat to a white person on December 1, 1955.", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 
+1647833314 ’s arrest
+
+Rosa Parks was arrested for refusing to give up her bus seat to a white person on December 1, 1955. 
+1647833314 What else can I tell you about Rosa Parks? 
+1647833314 A. Tell me more about their life! 
+1647833314 B. Tell me more about their accomplishments! 
+1647833314 C. Tell me more about the time period they were alive during! 
+1647833314 D. I have my own specific question about Rosa Parks. 
+1647833321 C RESPONSE 
+1647833323 {"id"=>"cmpl-4o30jPboZvKCOB3eyfFxPdTFSaJZm", "object"=>"text_completion", "created"=>1647833321, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\n\nRosa Parks was born in 1913 and died in 2005. She was living during the time of the Jim Crow laws, which were a set of laws in the United States that segregated people by race.", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 
+1647833323 
+
+Rosa Parks was born in 1913 and died in 2005. She was living during the time of the Jim Crow laws, which were a set of laws in the United States that segregated people by race. 
+1647833323 Time for a quiz! 
+1647833323 TRUE OR FALSE QUESTION 
+1647833324 {"id"=>"cmpl-4o30lpinR2AoAAgPUn4HDm86lOY0E", "object"=>"text_completion", "created"=>1647833323, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\n\nRosa Parks was the first African American to be arrested for refusing to give up her bus seat to a white person.", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 
+1647833324 
+
+Rosa Parks was the first African American to be arrested for refusing to give up her bus seat to a white person. 
+1647833338 {"id"=>"cmpl-4o30z52LQjiyCoeNmHk5qMo2RuTZG", "object"=>"text_completion", "created"=>1647833337, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\n\nThis is not a question.", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 
+1647833338 
+
+This is not a question. 
+1647833338 MULTIPLE CHOICE QUESTION 
+1647833342 {"id"=>"cmpl-4o3109wG87vjg03ffjpU5sM9OoB3F", "object"=>"text_completion", "created"=>1647833338, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\n\n1) What was Rosa Parks' profession?\n\nA) Civil Rights Activist\nB) Teacher\nC) Doctor\nD) Lawyer\n\n2) Why is Rosa Parks best known?\n\nA) For her role in the Montgomery bus boycott\nB) For her work with the NAACP\nC) For being the first African American to ride on a bus\nD) For her arrest on December 1, 1955", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 
+1647833342 
+
+1) What was Rosa Parks' profession?
+
+A) Civil Rights Activist
+B) Teacher
+C) Doctor
+D) Lawyer
+
+2) Why is Rosa Parks best known?
+
+A) For her role in the Montgomery bus boycott
+B) For her work with the NAACP
+C) For being the first African American to ride on a bus
+D) For her arrest on December 1, 1955 
+1647833368 {"id"=>"cmpl-4o31TM25YknFWSBRgiz0AFly4UZgh", "object"=>"text_completion", "created"=>1647833367, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\n\nA) Civil Rights Activist and D) her arrest are both correct answers to the question.", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 
+1647833368 
+
+A) Civil Rights Activist and D) her arrest are both correct answers to the question. 
+1647833368 SHORT ANSWER QUESTION 
+1647833368 {"id"=>"cmpl-4o31Ulpd42wSTC19JpIwfk6kHzNm8", "object"=>"text_completion", "created"=>1647833368, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\n\nWhat was the significance of Rosa Parks' arrest?", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 
+1647833368 
+
+What was the significance of Rosa Parks' arrest? 
+1647833427 {"id"=>"cmpl-4o32QJkUPvxORXlrnBjwInrYWgaj5", "object"=>"text_completion", "created"=>1647833426, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\n\nYes, Rosa Parks' arrest was significant because it led to additional protests and eventually the civil rights act.", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 
+1647833427 
+
+Yes, Rosa Parks' arrest was significant because it led to additional protests and eventually the civil rights act. 
+1647833427 Your score is 3 out of 4 
+1647833427 Choose another person? Y/N 
+1647833432 Goodbye! 

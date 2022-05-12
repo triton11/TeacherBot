@@ -1,0 +1,25 @@
+1647831787 Sounds good! Lets learn about George Washington 
+1647831787 ONE LINE SUMMARY 
+1647831788 {"id"=>"cmpl-4o2bz1POCjtwDkbkrLVmrCAax5pgM", "object"=>"text_completion", "created"=>1647831787, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\n\nGeorge Washington was the first President of the United States.", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 
+1647831788 
+
+George Washington was the first President of the United States. 
+1647831788 ELABORATION 
+1647831788 {"id"=>"cmpl-4o2bz1POCjtwDkbkrLVmrCAax5pgM", "object"=>"text_completion", "created"=>1647831787, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\n\nGeorge Washington was the first President of the United States.", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 
+1647831788 
+
+George Washington was the first President of the United States. 
+1647831788 What else can I tell you about George Washington? 
+1647831788 A. Tell me more about their life! 
+1647831788 B. Tell me more about their accomplishments! 
+1647831788 C. Tell me more about the time period they were alive during! 
+1647831788 D. I have my own specific question about George Washington. 
+1647831793 C RESPONSE 
+1647831793 {"id"=>"cmpl-4o2bz1POCjtwDkbkrLVmrCAax5pgM", "object"=>"text_completion", "created"=>1647831787, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\n\nGeorge Washington was the first President of the United States.", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 
+1647831793 
+
+George Washington was the first President of the United States. 
+1647831793 Time for a quiz! 
+1647831793 TRUE OR FALSE QUESTION 
+1647831793 {"id"=>"cmpl-4o2bz1POCjtwDkbkrLVmrCAax5pgM", "object"=>"text_completion", "created"=>1647831787, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\n\nGeorge Washington was the first President of the United States.", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 
+1647831797 {"id"=>"cmpl-4o2bz1POCjtwDkbkrLVmrCAax5pgM", "object"=>"text_completion", "created"=>1647831787, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\n\nGeorge Washington was the first President of the United States.", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 

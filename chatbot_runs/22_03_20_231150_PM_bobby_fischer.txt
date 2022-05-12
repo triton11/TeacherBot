@@ -1,0 +1,59 @@
+1647832310 Sounds good! Lets learn about Bobby Fischer 
+1647832310 ONE LINE SUMMARY 
+1647832311 {"id"=>"cmpl-4o2kQD5ZSJjs2rzdB7Mqp6w8RCAQ6", "object"=>"text_completion", "created"=>1647832310, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\n\nBobby Fischer was a chess grandmaster and the 11th World Chess Champion. He is considered to be one of the greatest chess players of all time.", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 
+1647832311 
+
+Bobby Fischer was a chess grandmaster and the 11th World Chess Champion. He is considered to be one of the greatest chess players of all time. 
+1647832311 ELABORATION 
+1647832313 {"id"=>"cmpl-4o2kROLOiex52Vgex60r4V9Q3snN5", "object"=>"text_completion", "created"=>1647832311, "model"=>"text-davinci:002", "choices"=>[{"text"=>"'s match against Spassky\n\nIn the match, Bobby Fischer played against Spassky. He won the first game, but then Spassky won the next two games. Fischer then won the next three games in a row, putting him ahead in the match. Spassky won the sixth game, but", "index"=>0, "logprobs"=>nil, "finish_reason"=>"length"}]} 
+1647832313 's match against Spassky
+
+In the match, Bobby Fischer played against Spassky. He won the first game, but then Spassky won the next two games. Fischer then won the next three games in a row, putting him ahead in the match. Spassky won the sixth game, but 
+1647832313 What else can I tell you about Bobby Fischer? 
+1647832313 A. Tell me more about their life! 
+1647832313 B. Tell me more about their accomplishments! 
+1647832313 C. Tell me more about the time period they were alive during! 
+1647832313 D. I have my own specific question about Bobby Fischer. 
+1647832330 B RESPONSE 
+1647832332 {"id"=>"cmpl-4o2kkdvw65QAzzyA2eCUQVM0xMUMt", "object"=>"text_completion", "created"=>1647832330, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\n\nBobby Fischer is a world-renowned chess player who is considered one of the greatest chess players of all time. Fischer was the eleventh World Chess Champion, and his accomplishments also include winning the 1963-64 U.S. Championship with a perfect 11-0 score, which is a record that still", "index"=>0, "logprobs"=>nil, "finish_reason"=>"length"}]} 
+1647832332 
+
+Bobby Fischer is a world-renowned chess player who is considered one of the greatest chess players of all time. Fischer was the eleventh World Chess Champion, and his accomplishments also include winning the 1963-64 U.S. Championship with a perfect 11-0 score, which is a record that still 
+1647832332 Time for a quiz! 
+1647832332 TRUE OR FALSE QUESTION 
+1647832333 {"id"=>"cmpl-4o2kmPiNQiu25hk5Ou9SxkOAel8sE", "object"=>"text_completion", "created"=>1647832332, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\n\nTRUE or FALSE: Bobby Fischer is considered one of the greatest chess players of all time.\n\nTRUE", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 
+1647832333 
+
+TRUE or FALSE: Bobby Fischer is considered one of the greatest chess players of all time.
+
+TRUE 
+1647832346 {"id"=>"cmpl-4o2l0Yde4DLkWyUIZDOD0MCoXYar9", "object"=>"text_completion", "created"=>1647832346, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\n\nYes, True is considered one of the greatest chess players of all time.", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 
+1647832346 
+
+Yes, True is considered one of the greatest chess players of all time. 
+1647832346 MULTIPLE CHOICE QUESTION 
+1647832348 {"id"=>"cmpl-4o2l1HFa6tpPrWmDGysoLc9qGy5Tr", "object"=>"text_completion", "created"=>1647832347, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\n\nWhich of the following is true about Bobby Fischer?\n\na) He was the eleventh World Chess Champion.\nb) He won the 1963-64 U.S. Championship with a perfect 11-0 score.\nc) He is considered one of the greatest chess players of all time.\n", "index"=>0, "logprobs"=>nil, "finish_reason"=>"length"}]} 
+1647832348 
+
+Which of the following is true about Bobby Fischer?
+
+a) He was the eleventh World Chess Champion.
+b) He won the 1963-64 U.S. Championship with a perfect 11-0 score.
+c) He is considered one of the greatest chess players of all time.
+ 
+1647832365 {"id"=>"cmpl-4o2lIv9lY9zvJhkY6oto9saAjUCyw", "object"=>"text_completion", "created"=>1647832364, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\n\nA, B, and C are correct answers to the question.", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 
+1647832365 
+
+A, B, and C are correct answers to the question. 
+1647832365 SHORT ANSWER QUESTION 
+1647832367 {"id"=>"cmpl-4o2lJ24LfbtkxhQdEgAGBdVg7twCn", "object"=>"text_completion", "created"=>1647832365, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\n\nHow many games did Bobby Fischer win in the 1963-64 U.S. Championship?\n\nBobby Fischer won 11 games in the 1963-64 U.S. Championship.", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 
+1647832367 
+
+How many games did Bobby Fischer win in the 1963-64 U.S. Championship?
+
+Bobby Fischer won 11 games in the 1963-64 U.S. Championship. 
+1647832382 {"id"=>"cmpl-4o2laQmj9UsiYk3ZDN9CXwPZSt8rI", "object"=>"text_completion", "created"=>1647832382, "model"=>"text-davinci:002", "choices"=>[{"text"=>"", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 
+1647832382  
+1647832382 Your score is 2 out of 4 
+1647832382 Choose another person? Y/N 
+1647832393 Goodbye! 

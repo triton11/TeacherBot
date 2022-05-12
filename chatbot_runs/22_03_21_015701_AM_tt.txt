@@ -1,0 +1,19 @@
+1647842221 Max tokens: 50, Temperature: 0.4 
+1647842221 Sounds good! Lets learn about TT 
+1647842221 ONE LINE SUMMARY 
+1647842221 Who is TT? 
+1647842221 {"choices"=>[{"text"=>"Hello"}]} 
+1647842221 Hello 
+1647842221 ELABORATION 
+1647842221 Elaborate on TT 
+1647842221 {"choices"=>[{"text"=>"Hello"}]} 
+1647842221 Hello 
+1647842221 What else can I tell you about TT? 
+1647842221 A. Tell me more about their life. 
+1647842221 B. Tell me more about their accomplishments. 
+1647842221 C. Tell me more about the time period they were alive during. 
+1647842221 Or, ask me anything about TT! 
+1647842226 D RESPONSE 
+1647842226 Answer the following question about TT: fass? 
+1647842226 {"choices"=>[{"text"=>"Hello"}]} 
+1647842226 Hello 

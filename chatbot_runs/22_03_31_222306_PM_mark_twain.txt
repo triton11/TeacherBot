@@ -1,0 +1,2 @@
+1648779786 PARAMETERS Max tokens: 50, Temperature: 0.4 
+1648779786 OUTPUT Sounds good! Lets learn about Mark Twain 

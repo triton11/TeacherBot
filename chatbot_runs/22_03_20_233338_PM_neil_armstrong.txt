@@ -1,0 +1,96 @@
+1647833618 Max tokens: 50, Temperature: 0.4 
+1647833618 Sounds good! Lets learn about Neil Armstrong 
+1647833618 ONE LINE SUMMARY 
+1647833618 Who is Neil Armstrong? 
+1647833619 {"id"=>"cmpl-4o35Wkva4rwd5gcANti7mGfs7iIRM", "object"=>"text_completion", "created"=>1647833618, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\n\nNeil Armstrong was an American astronaut and the first person to walk on the moon.", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 
+1647833619 
+
+Neil Armstrong was an American astronaut and the first person to walk on the moon. 
+1647833619 ELABORATION 
+1647833619 Elaborate on Neil Armstrong 
+1647833621 {"id"=>"cmpl-4o35X97J8V10JNpMYprN2fRdHhGGp", "object"=>"text_completion", "created"=>1647833619, "model"=>"text-davinci:002", "choices"=>[{"text"=>"’s life\n\nNeil Armstrong was an American astronaut and the first person to walk on the moon. He was born on August 5, 1930, in Wapakoneta, Ohio. He began his career as a pilot in the U.S. Navy, where he flew 78 combat missions during the Korean War. In 1957, he joined the National Aeronautics and Space Administration (NASA) as a test pilot. In 1969, Armstrong commanded the Apollo 11 mission, which made", "index"=>0, "logprobs"=>nil, "finish_reason"=>"length"}]} 
+1647833621 ’s life
+
+Neil Armstrong was an American astronaut and the first person to walk on the moon. He was born on August 5, 1930, in Wapakoneta, Ohio. He began his career as a pilot in the U.S. Navy, where he flew 78 combat missions during the Korean War. In 1957, he joined the National Aeronautics and Space Administration (NASA) as a test pilot. In 1969, Armstrong commanded the Apollo 11 mission, which made 
+1647833621 What else can I tell you about Neil Armstrong? 
+1647833621 A. Tell me more about their life. 
+1647833621 B. Tell me more about their accomplishments. 
+1647833621 C. Tell me more about the time period they were alive during. 
+1647833621 Or, ask me anything about Neil Armstrong! 
+1647833632 A RESPONSE 
+1647833632 Tell me more about Neil Armstrong's life 
+1647833634 {"id"=>"cmpl-4o35kk9DSkQqwdTITNXCZvZKWS3p3", "object"=>"text_completion", "created"=>1647833632, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\n\nNeil Armstrong was born on August 5, 1930, in Wapakoneta, Ohio. He became a pilot in the U.S. Navy and flew combat missions during the Korean War. In 1957, he joined the National Aeronautics and Space Administration (NASA) and became an astronaut in 1962. He made history on July 20, 1969, when he became the first person to walk on the moon. He died on August 25, 2012, at the age of 82.", "index"=>0, "logprobs"=>nil, "finish_reason"=>"length"}]} 
+1647833634 
+
+Neil Armstrong was born on August 5, 1930, in Wapakoneta, Ohio. He became a pilot in the U.S. Navy and flew combat missions during the Korean War. In 1957, he joined the National Aeronautics and Space Administration (NASA) and became an astronaut in 1962. He made history on July 20, 1969, when he became the first person to walk on the moon. He died on August 25, 2012, at the age of 82. 
+1647833634 Time for a quiz! 
+1647833634 TRUE OR FALSE QUESTION 
+1647833634 Based on the information we have learned about Neil Armstrong, including 
+
+Neil Armstrong was an American astronaut and the first person to walk on the moon., ’s life
+
+Neil Armstrong was an American astronaut and the first person to walk on the moon. He was born on August 5, 1930, in Wapakoneta, Ohio. He began his career as a pilot in the U.S. Navy, where he flew 78 combat missions during the Korean War. In 1957, he joined the National Aeronautics and Space Administration (NASA) as a test pilot. In 1969, Armstrong commanded the Apollo 11 mission, which made and 
+
+Neil Armstrong was born on August 5, 1930, in Wapakoneta, Ohio. He became a pilot in the U.S. Navy and flew combat missions during the Korean War. In 1957, he joined the National Aeronautics and Space Administration (NASA) and became an astronaut in 1962. He made history on July 20, 1969, when he became the first person to walk on the moon. He died on August 25, 2012, at the age of 82., generate one true or false question but do not answer it: 
+1647833635 {"id"=>"cmpl-4o35mJR4whiP9qH9pfSSKRS5PWqJq", "object"=>"text_completion", "created"=>1647833634, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\n\ntrue or false: Neil Armstrong was the first person to walk on the moon.", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 
+1647833635 
+
+true or false: Neil Armstrong was the first person to walk on the moon. 
+1647833641 Is True a correct answer to the following question: 
+
+true or false: Neil Armstrong was the first person to walk on the moon.? Yes or no? 
+1647833642 {"id"=>"cmpl-4o35tdhJT3RyaYbvQluVdjpX4lSiH", "object"=>"text_completion", "created"=>1647833641, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\n\nTrue", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 
+1647833642 
+
+True 
+1647833642 MULTIPLE CHOICE QUESTION 
+1647833642 Based on the information we have learned about Neil Armstrong, including 
+
+Neil Armstrong was an American astronaut and the first person to walk on the moon., ’s life
+
+Neil Armstrong was an American astronaut and the first person to walk on the moon. He was born on August 5, 1930, in Wapakoneta, Ohio. He began his career as a pilot in the U.S. Navy, where he flew 78 combat missions during the Korean War. In 1957, he joined the National Aeronautics and Space Administration (NASA) as a test pilot. In 1969, Armstrong commanded the Apollo 11 mission, which made and 
+
+Neil Armstrong was born on August 5, 1930, in Wapakoneta, Ohio. He became a pilot in the U.S. Navy and flew combat missions during the Korean War. In 1957, he joined the National Aeronautics and Space Administration (NASA) and became an astronaut in 1962. He made history on July 20, 1969, when he became the first person to walk on the moon. He died on August 25, 2012, at the age of 82., generate one multiple choice question but do not answer it: 
+1647833643 {"id"=>"cmpl-4o35usu8kxccjtnSZi0c6ZNfOoyEu", "object"=>"text_completion", "created"=>1647833642, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\n\nWho was the first person to walk on the moon?\n\nA. Neil Armstrong\nB. Buzz Aldrin\nC. Michael Collins\nD. Edwin \"Buzz\" Aldrin", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 
+1647833643 
+
+Who was the first person to walk on the moon?
+
+A. Neil Armstrong
+B. Buzz Aldrin
+C. Michael Collins
+D. Edwin "Buzz" Aldrin 
+1647833650 Is A a correct answer to the following question: 
+
+Who was the first person to walk on the moon?
+
+A. Neil Armstrong
+B. Buzz Aldrin
+C. Michael Collins
+D. Edwin "Buzz" Aldrin? Yes or no? 
+1647833651 {"id"=>"cmpl-4o363Hybknkhu8BX8xB4ZxEWkUkQX", "object"=>"text_completion", "created"=>1647833651, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\n\nYes", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 
+1647833651 
+
+Yes 
+1647833651 SHORT ANSWER QUESTION 
+1647833651 Based on the information we have learned about Neil Armstrong, including 
+
+Neil Armstrong was an American astronaut and the first person to walk on the moon., ’s life
+
+Neil Armstrong was an American astronaut and the first person to walk on the moon. He was born on August 5, 1930, in Wapakoneta, Ohio. He began his career as a pilot in the U.S. Navy, where he flew 78 combat missions during the Korean War. In 1957, he joined the National Aeronautics and Space Administration (NASA) as a test pilot. In 1969, Armstrong commanded the Apollo 11 mission, which made and 
+
+Neil Armstrong was born on August 5, 1930, in Wapakoneta, Ohio. He became a pilot in the U.S. Navy and flew combat missions during the Korean War. In 1957, he joined the National Aeronautics and Space Administration (NASA) and became an astronaut in 1962. He made history on July 20, 1969, when he became the first person to walk on the moon. He died on August 25, 2012, at the age of 82., generate one short answer question but do not answer it: 
+1647833652 {"id"=>"cmpl-4o3636v5iuTR7VyN36VMQooN5B3rh", "object"=>"text_completion", "created"=>1647833651, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\n\nWhat was Neil Armstrong's profession?", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 
+1647833652 
+
+What was Neil Armstrong's profession? 
+1647833658 Is He was an astronaut a correct answer to the following question: 
+
+What was Neil Armstrong's profession?? Yes or no? 
+1647833659 {"id"=>"cmpl-4o36ADGAO8E8T8oMWzDGZinBE0lRY", "object"=>"text_completion", "created"=>1647833658, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\n\nYes", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 
+1647833659 
+
+Yes 
+1647833659 Your score is 3 out of 4 
+1647833659 Choose another person? Y/N 
+1647833660 Goodbye! 

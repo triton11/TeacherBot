@@ -1,0 +1,44 @@
+1647836113 Max tokens: 50, Temperature: 0.4 
+1647836113 Sounds good! Lets learn about Tristrum Tuttle 
+1647836113 ONE LINE SUMMARY 
+1647836113 Who is Tristrum Tuttle? 
+1647836115 {"id"=>"cmpl-4o3jmyO1NotkL9XPP8Ys26z3uN5d4", "object"=>"text_completion", "created"=>1647836114, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\n\nTristrum Tuttle is a character in the book, \"The House with a Clock in Its Walls.\" He is the son of the previous owner of the house, Isaac Tuttle.", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 
+1647836115 Tristrum Tuttle is a character in the book, "The House with a Clock in Its Walls." He is the son of the previous owner of the house, Isaac Tuttle. 
+1647836115 ELABORATION 
+1647836115 Elaborate on Tristrum Tuttle 
+1647836117 {"id"=>"cmpl-4o3jnHLDeDxs4RAmtKdKKS55hk1ic", "object"=>"text_completion", "created"=>1647836115, "model"=>"text-davinci:002", "choices"=>[{"text"=>" and his story\n\nTristrum Tuttle was born in 1783 to a wealthy family in Boston, Massachusetts. He was an only child and his parents doted on him. He was educated at the best schools and had every advantage in life.\n\nHowever, Tuttle was a rebellious young man and he chafed at the restrictions placed on him by his family. He began to get into trouble, getting into fights and getting kicked out of school. When he was 18, he", "index"=>0, "logprobs"=>nil, "finish_reason"=>"length"}]} 
+1647836117  and his storyTristrum Tuttle was born in 1783 to a wealthy family in Boston, Massachusetts. He was an only child and his parents doted on him. He was educated at the best schools and had every advantage in life.However, Tuttle was a rebellious young man and he chafed at the restrictions placed on him by his family. He began to get into trouble, getting into fights and getting kicked out of school. When he was 18, he 
+1647836117 What else can I tell you about Tristrum Tuttle? 
+1647836117 A. Tell me more about their life. 
+1647836117 B. Tell me more about their accomplishments. 
+1647836117 C. Tell me more about the time period they were alive during. 
+1647836117 Or, ask me anything about Tristrum Tuttle! 
+1647836144 D RESPONSE 
+1647836144 Answer the following question about Tristrum Tuttle: Is Tristrum Tuttle handsome?? 
+1647836146 {"id"=>"cmpl-4o3kGLa7jfjAJu0WIOaaSCF3ezL3m", "object"=>"text_completion", "created"=>1647836144, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\n\nThere is no definitive answer, as beauty is in the eye of the beholder. Some people may find Tristrum Tuttle to be handsome, while others may not.", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 
+1647836146 There is no definitive answer, as beauty is in the eye of the beholder. Some people may find Tristrum Tuttle to be handsome, while others may not. 
+1647836146 Time for a quiz! 
+1647836146 TRUE OR FALSE QUESTION 
+1647836146 Based on the information we have learned about Tristrum Tuttle, including Tristrum Tuttle is a character in the book, "The House with a Clock in Its Walls." He is the son of the previous owner of the house, Isaac Tuttle.,  and his storyTristrum Tuttle was born in 1783 to a wealthy family in Boston, Massachusetts. He was an only child and his parents doted on him. He was educated at the best schools and had every advantage in life.However, Tuttle was a rebellious young man and he chafed at the restrictions placed on him by his family. He began to get into trouble, getting into fights and getting kicked out of school. When he was 18, he and There is no definitive answer, as beauty is in the eye of the beholder. Some people may find Tristrum Tuttle to be handsome, while others may not., generate one true or false question but do not answer it: 
+1647836147 {"id"=>"cmpl-4o3kIpvnIOEg7csdBK5F6x0YmOBRG", "object"=>"text_completion", "created"=>1647836146, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\n\nTristrum Tuttle was born into a wealthy family.", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 
+1647836147 Tristrum Tuttle was born into a wealthy family. 
+1647836163 Is True a correct answer to the following question: Tristrum Tuttle was born into a wealthy family.? Yes or no? 
+1647836164 {"id"=>"cmpl-4o3ka8Ib4AXXCISnKd2Nx9M5fAeqV", "object"=>"text_completion", "created"=>1647836164, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\n\nNo", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 
+1647836164 No 
+1647836164 MULTIPLE CHOICE QUESTION 
+1647836164 Based on the information we have learned about Tristrum Tuttle, including Tristrum Tuttle is a character in the book, "The House with a Clock in Its Walls." He is the son of the previous owner of the house, Isaac Tuttle.,  and his storyTristrum Tuttle was born in 1783 to a wealthy family in Boston, Massachusetts. He was an only child and his parents doted on him. He was educated at the best schools and had every advantage in life.However, Tuttle was a rebellious young man and he chafed at the restrictions placed on him by his family. He began to get into trouble, getting into fights and getting kicked out of school. When he was 18, he and There is no definitive answer, as beauty is in the eye of the beholder. Some people may find Tristrum Tuttle to be handsome, while others may not., generate one multiple choice question but do not answer it: 
+1647836166 {"id"=>"cmpl-4o3kaTVNIvyFT7ZUhGqh0espEhaUz", "object"=>"text_completion", "created"=>1647836164, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\n\n1. What is Tristrum Tuttle's story?\n\nA. He is a rebellious young man who gets into trouble.\nB. He is a wealthy man who has everything going for him.\nC. He is a handsome man who is loved by everyone.\n\n2. What is Tristrum Tuttle's story?\n\nA. He is a rebellious young man who gets into trouble.\nB. He is a wealthy man who has everything going for", "index"=>0, "logprobs"=>nil, "finish_reason"=>"length"}]} 
+1647836166 1. What is Tristrum Tuttle's story?A. He is a rebellious young man who gets into trouble.B. He is a wealthy man who has everything going for him.C. He is a handsome man who is loved by everyone.2. What is Tristrum Tuttle's story?A. He is a rebellious young man who gets into trouble.B. He is a wealthy man who has everything going for 
+1647836179 Is C a correct answer to the following question: 1. What is Tristrum Tuttle's story?A. He is a rebellious young man who gets into trouble.B. He is a wealthy man who has everything going for him.C. He is a handsome man who is loved by everyone.2. What is Tristrum Tuttle's story?A. He is a rebellious young man who gets into trouble.B. He is a wealthy man who has everything going for? Yes or no? 
+1647836179 {"id"=>"cmpl-4o3kpBfnv6CLtCrbdIpFC3Bzld3mb", "object"=>"text_completion", "created"=>1647836179, "model"=>"text-davinci:002", "choices"=>[{"text"=>"", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 
+1647836179  
+1647836179 SHORT ANSWER QUESTION 
+1647836179 Based on the information we have learned about Tristrum Tuttle, including Tristrum Tuttle is a character in the book, "The House with a Clock in Its Walls." He is the son of the previous owner of the house, Isaac Tuttle.,  and his storyTristrum Tuttle was born in 1783 to a wealthy family in Boston, Massachusetts. He was an only child and his parents doted on him. He was educated at the best schools and had every advantage in life.However, Tuttle was a rebellious young man and he chafed at the restrictions placed on him by his family. He began to get into trouble, getting into fights and getting kicked out of school. When he was 18, he and There is no definitive answer, as beauty is in the eye of the beholder. Some people may find Tristrum Tuttle to be handsome, while others may not., generate one short answer question but do not answer it: 
+1647836180 {"id"=>"cmpl-4o3kp691QRtD0VXogL4yV8bHGAaf7", "object"=>"text_completion", "created"=>1647836179, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\n\nWhat does Tristrum Tuttle's story teach us about rebellion?", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 
+1647836180 What does Tristrum Tuttle's story teach us about rebellion? 
+1647836191 Is Rebellion is in the eye of the beholder a correct answer to the following question: What does Tristrum Tuttle's story teach us about rebellion?? Yes or no? 
+1647836191 {"id"=>"cmpl-4o3l1Vr3yFO9fZzceX536VtnbvZF4", "object"=>"text_completion", "created"=>1647836191, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\n\nYes, rebellion is in the eye of the beholder.", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 
+1647836191 Yes, rebellion is in the eye of the beholder. 
+1647836191 Your score is 2 out of 4 
+1647836191 Choose another person? Y/N 
+1647836197 Goodbye! 

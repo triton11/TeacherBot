@@ -1,0 +1,42 @@
+1647913205 PARAMETERS Max tokens: 50, Temperature: 0.4 
+1647913205 OUTPUT Sounds good! Lets learn about Christopher Columbus 
+1647913205 QUERY Who is Christopher Columbus? 
+1647913207 RESPONSE {"id"=>"cmpl-4oNnCDUhyk2Uid1ofEuM8KkW4s1zQ", "object"=>"text_completion", "created"=>1647913206, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\n\nChristopher Columbus was an Italian explorer who sailed across the Atlantic Ocean in 1492, hoping to find a route to India. Instead, he landed in the Bahamas.", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 
+1647913207 OUTPUT Christopher Columbus was an Italian explorer who sailed across the Atlantic Ocean in 1492, hoping to find a route to India. Instead, he landed in the Bahamas. 
+1647913207 QUERY Elaborate on Christopher Columbus:  
+1647913211 RESPONSE {"id"=>"cmpl-4oNnD1bZKsMWr2VYXK5TilxOfQgA1", "object"=>"text_completion", "created"=>1647913207, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\n\nChristopher Columbus was an Italian explorer who was born in Genoa, Italy in 1451. He is best known for his voyages of discovery to the Americas in 1492, which led to the establishment of Spanish colonies in the Americas. Columbus also made several other voyages to the Americas, and to other parts of the world. He died in 1506.", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 
+1647913211 OUTPUT Christopher Columbus was an Italian explorer who was born in Genoa, Italy in 1451. He is best known for his voyages of discovery to the Americas in 1492, which led to the establishment of Spanish colonies in the Americas. Columbus also made several other voyages to the Americas, and to other parts of the world. He died in 1506. 
+1647913211 OUTPUT What else can I tell you about Christopher Columbus? 
+1647913211 OUTPUT A. Tell me more about their life. 
+1647913211 OUTPUT B. Tell me more about their accomplishments. 
+1647913211 OUTPUT C. Tell me more about the time period they were alive during. 
+1647913211 OUTPUT Or, ask me anything about Christopher Columbus! 
+1647913256 INPUT Was he married? 
+1647913256 QUERY Answer the following question about Christopher Columbus: Was he married?? 
+1647913257 RESPONSE {"id"=>"cmpl-4oNo11jLI7QOnv2mkrdAvtiGKQamU", "object"=>"text_completion", "created"=>1647913257, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\n\nYes, Christopher Columbus was married.", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 
+1647913257 OUTPUT Yes, Christopher Columbus was married. 
+1647913257 OUTPUT Time for a quiz! 
+1647913257 QUERY Based on the information we have learned about Christopher Columbus, including Christopher Columbus was an Italian explorer who sailed across the Atlantic Ocean in 1492, hoping to find a route to India. Instead, he landed in the Bahamas.Christopher Columbus was an Italian explorer who was born in Genoa, Italy in 1451. He is best known for his voyages of discovery to the Americas in 1492, which led to the establishment of Spanish colonies in the Americas. Columbus also made several other voyages to the Americas, and to other parts of the world. He died in 1506.Yes, Christopher Columbus was married., generate one true or false question but do not answer it: 
+1647913258 RESPONSE {"id"=>"cmpl-4oNo2LurWJCL2QAxf6Sdekq0YeNjX", "object"=>"text_completion", "created"=>1647913258, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\n\nChristopher Columbus was married.", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 
+1647913258 OUTPUT Christopher Columbus was married. 
+1647913268 INPUT True 
+1647913268 QUERY Is True a correct answer to the following question: Christopher Columbus was married.? Yes or no? 
+1647913269 RESPONSE {"id"=>"cmpl-4oNoDInfVAVTJoztefZrqjeEMUD1q", "object"=>"text_completion", "created"=>1647913269, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\n\nNo", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 
+1647913269 OUTPUT No 
+1647913269 QUERY Based on the information we have learned about Christopher Columbus, including Christopher Columbus was an Italian explorer who sailed across the Atlantic Ocean in 1492, hoping to find a route to India. Instead, he landed in the Bahamas.Christopher Columbus was an Italian explorer who was born in Genoa, Italy in 1451. He is best known for his voyages of discovery to the Americas in 1492, which led to the establishment of Spanish colonies in the Americas. Columbus also made several other voyages to the Americas, and to other parts of the world. He died in 1506.Yes, Christopher Columbus was married., generate one multiple choice question but do not answer it: 
+1647913271 RESPONSE {"id"=>"cmpl-4oNoDhZudwRJRvkiJ2iLEj3MDIftQ", "object"=>"text_completion", "created"=>1647913269, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\n\nWho was Christopher Columbus' wife?\n\nA. Isabella I of Castile\nB. Beatriz Enriquez de Arana\nC. Maria Celeste\nD. None of the above", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 
+1647913271 OUTPUT Who was Christopher Columbus' wife?A. Isabella I of CastileB. Beatriz Enriquez de AranaC. Maria CelesteD. None of the above 
+1647913328 INPUT D 
+1647913328 QUERY Is D a correct answer to the following question: Who was Christopher Columbus' wife?A. Isabella I of CastileB. Beatriz Enriquez de AranaC. Maria CelesteD. None of the above? Yes or no? 
+1647913328 RESPONSE {"id"=>"cmpl-4oNpAEalAbHOcFcx1ZIAfCGcxtjbr", "object"=>"text_completion", "created"=>1647913328, "model"=>"text-davinci:002", "choices"=>[{"text"=>"D. None of the above is correct.", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 
+1647913328 OUTPUT D. None of the above is correct. 
+1647913328 QUERY Based on the information we have learned about Christopher Columbus, including Christopher Columbus was an Italian explorer who sailed across the Atlantic Ocean in 1492, hoping to find a route to India. Instead, he landed in the Bahamas.Christopher Columbus was an Italian explorer who was born in Genoa, Italy in 1451. He is best known for his voyages of discovery to the Americas in 1492, which led to the establishment of Spanish colonies in the Americas. Columbus also made several other voyages to the Americas, and to other parts of the world. He died in 1506.Yes, Christopher Columbus was married., generate one short answer question but do not answer it: 
+1647913329 RESPONSE {"id"=>"cmpl-4oNpBJF0EEejelrfyZxoBffLdZgCX", "object"=>"text_completion", "created"=>1647913329, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\n\nWhat was the name of Christopher Columbus's wife?", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 
+1647913329 OUTPUT What was the name of Christopher Columbus's wife? 
+1647913343 INPUT Isabella? 
+1647913343 QUERY Is Isabella? a correct answer to the following question: What was the name of Christopher Columbus's wife?? Yes or no? 
+1647913344 RESPONSE {"id"=>"cmpl-4oNpQlr4rzX08mnoSA5gxAOVm56pl", "object"=>"text_completion", "created"=>1647913344, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\n\nNo. Christopher Columbus was not married.", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 
+1647913344 OUTPUT No. Christopher Columbus was not married. 
+1647913344 OUTPUT Your score is 0 out of 4 
+1647913344 OUTPUT Choose another person? Y/N 
+1647913353 OUTPUT Goodbye! 

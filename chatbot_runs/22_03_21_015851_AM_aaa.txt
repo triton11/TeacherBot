@@ -1,0 +1,19 @@
+1647842331 Max tokens: 50, Temperature: 0.4 
+1647842331 Sounds good! Lets learn about aaa 
+1647842331 ONE LINE SUMMARY 
+1647842331 Who is aaa? 
+1647842331 {"choices"=>[{"text"=>"Hello"}]} 
+1647842331 Hello 
+1647842331 ELABORATION 
+1647842331 Elaborate on aaa 
+1647842331 {"choices"=>[{"text"=>"Hello"}]} 
+1647842331 Hello 
+1647842331 What else can I tell you about aaa? 
+1647842331 A. Tell me more about their life. 
+1647842331 B. Tell me more about their accomplishments. 
+1647842331 C. Tell me more about the time period they were alive during. 
+1647842331 Or, ask me anything about aaa! 
+1647842336 D RESPONSE 
+1647842336 Answer the following question about aaa: aaaa? 
+1647842336 {"choices"=>[{"text"=>"Hello"}]} 
+1647842336 Hello 

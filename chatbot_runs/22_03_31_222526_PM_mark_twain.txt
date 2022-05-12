@@ -1,0 +1,41 @@
+1648779926 PARAMETERS Max tokens: 50, Temperature: 0.4 
+1648779926 OUTPUT Sounds good! Lets learn about Mark Twain 
+1648779926 QUERY Who was Barack Obama?
+ Barack Obama was the 44th president of the United States (2009–17) and the first African American to hold the office. Before winning the presidency, Obama represented Illinois in the U.S. Senate (2005–08). He was the third African American to be elected to that body since the end of Reconstruction (1877). In 2009 he was awarded the Nobel Peace Prize for his extraordinary efforts to strengthen international diplomacy and cooperation between peoples.
+ Who is Mark Twain? 
+1648779930 RESPONSE {"id"=>"cmpl-4s1GbCUyeVt4RP1fu6hMH7m3osJEv", "object"=>"text_completion", "created"=>1648779929, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\n\nMark Twain was an American writer and humorist best known for his novels The Adventures of Tom Sawyer and The Adventures of Huckleberry Finn.", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 
+1648779930 OUTPUT Mark Twain was an American writer and humorist best known for his novels The Adventures of Tom Sawyer and The Adventures of Huckleberry Finn. 
+1648779930 OUTPUT What else can I tell you about Mark Twain? 
+1648779930 OUTPUT A. Tell me more about their life. 
+1648779930 OUTPUT B. Tell me more about their accomplishments. 
+1648779930 OUTPUT C. Tell me more about the time period they were alive during. 
+1648779930 OUTPUT Or, ask me anything about Mark Twain! 
+1648779965 INPUT B 
+1648779965 QUERY Tell me more about Mark Twain's accomplishments 
+1648779967 RESPONSE {"id"=>"cmpl-4s1HB9rBT3IggAh3YRGiZecydKB14", "object"=>"text_completion", "created"=>1648779965, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\n\nSome of Mark Twain's accomplishments include being a riverboat pilot, a journalist, and an author. He is most known for his novels The Adventures of Tom Sawyer and The Adventures of Huckleberry Finn.", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 
+1648779967 OUTPUT Some of Mark Twain's accomplishments include being a riverboat pilot, a journalist, and an author. He is most known for his novels The Adventures of Tom Sawyer and The Adventures of Huckleberry Finn. 
+1648779967 OUTPUT Time for a quiz! 
+1648779967 QUERY Based on the information we have learned about Mark Twain, including Mark Twain was an American writer and humorist best known for his novels The Adventures of Tom Sawyer and The Adventures of Huckleberry Finn.Some of Mark Twain's accomplishments include being a riverboat pilot, a journalist, and an author. He is most known for his novels The Adventures of Tom Sawyer and The Adventures of Huckleberry Finn., generate one true or false question but do not answer it: 
+1648779971 RESPONSE {"id"=>"cmpl-4s1HDRQrf9ilMwAmiCDKvMaKSjPRW", "object"=>"text_completion", "created"=>1648779967, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\n\nMark Twain was an American writer and humorist best known for his novels The Adventures of Tom Sawyer and The Adventures of Huckleberry Finn.\n\ntrue or false: Mark Twain was an American writer and humorist best known for his novels The Adventures of Tom Sawyer and The Adventures of Huckleberry Finn.", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 
+1648779971 OUTPUT Mark Twain was an American writer and humorist best known for his novels The Adventures of Tom Sawyer and The Adventures of Huckleberry Finn.true or false: Mark Twain was an American writer and humorist best known for his novels The Adventures of Tom Sawyer and The Adventures of Huckleberry Finn. 
+1648779980 INPUT True 
+1648779980 QUERY Is True a correct answer to the following question: Mark Twain was an American writer and humorist best known for his novels The Adventures of Tom Sawyer and The Adventures of Huckleberry Finn.true or false: Mark Twain was an American writer and humorist best known for his novels The Adventures of Tom Sawyer and The Adventures of Huckleberry Finn.? Yes or no? 
+1648779981 RESPONSE {"id"=>"cmpl-4s1HRVmpgHSwlXXj5YiujP8nxrTVP", "object"=>"text_completion", "created"=>1648779981, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\n\nTrue", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 
+1648779981 OUTPUT True 
+1648779981 QUERY Based on the information we have learned about Mark Twain, including Mark Twain was an American writer and humorist best known for his novels The Adventures of Tom Sawyer and The Adventures of Huckleberry Finn.Some of Mark Twain's accomplishments include being a riverboat pilot, a journalist, and an author. He is most known for his novels The Adventures of Tom Sawyer and The Adventures of Huckleberry Finn., generate one multiple choice question but do not answer it: 
+1648779984 RESPONSE {"id"=>"cmpl-4s1HRXNJhUFEHFP7xzBm7ki93eJqk", "object"=>"text_completion", "created"=>1648779981, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\n\n1. What did Mark Twain do?\n\na. He was a riverboat pilot.\n\nb. He was a journalist.\n\nc. He was an author.\n\nd. All of the above.", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 
+1648779984 OUTPUT 1. What did Mark Twain do?a. He was a riverboat pilot.b. He was a journalist.c. He was an author.d. All of the above. 
+1648779992 INPUT c 
+1648779992 QUERY Is c a correct answer to the following question: 1. What did Mark Twain do?a. He was a riverboat pilot.b. He was a journalist.c. He was an author.d. All of the above.? Yes or no? 
+1648779993 RESPONSE {"id"=>"cmpl-4s1HcG6E9eBt6wD8CPwIqrYVPTpjI", "object"=>"text_completion", "created"=>1648779992, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\n\nYes, all of the above are correct answers to the question.", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 
+1648779993 OUTPUT Yes, all of the above are correct answers to the question. 
+1648779993 QUERY Based on the information we have learned about Mark Twain, including Mark Twain was an American writer and humorist best known for his novels The Adventures of Tom Sawyer and The Adventures of Huckleberry Finn.Some of Mark Twain's accomplishments include being a riverboat pilot, a journalist, and an author. He is most known for his novels The Adventures of Tom Sawyer and The Adventures of Huckleberry Finn., generate one short answer question but do not answer it: 
+1648779993 RESPONSE {"id"=>"cmpl-4s1HdnRi7OBqWlQsVsQfP9gUiiqpD", "object"=>"text_completion", "created"=>1648779993, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\n\nWhat was Mark Twain's real name?", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 
+1648779993 OUTPUT What was Mark Twain's real name? 
+1648780015 INPUT Not sure 
+1648780015 QUERY Is Not sure a correct answer to the following question: What was Mark Twain's real name?? Yes or no? 
+1648780015 RESPONSE {"id"=>"cmpl-4s1Hz64ciRSrZA0mJ9EwxMJgoMs1g", "object"=>"text_completion", "created"=>1648780015, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\n\nNo, Mark Twain's real name was not Mark Twain.", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 
+1648780015 OUTPUT No, Mark Twain's real name was not Mark Twain. 
+1648780015 OUTPUT Your score is 2 out of 4 
+1648780015 OUTPUT Choose another person? Y/N 
+1648780023 OUTPUT Goodbye! 

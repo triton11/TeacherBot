@@ -1,0 +1,42 @@
+1647843541 PARAMETERS Max tokens: 50, Temperature: 0.4 
+1647843541 OUTPUT Sounds good! Lets learn about Darth Vader 
+1647843541 QUERY Who is Darth Vader? 
+1647843544 RESPONSE {"id"=>"cmpl-4o5fbrpRvVe0tEnN3NEkY1UUsUhvi", "object"=>"text_completion", "created"=>1647843543, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\n\nDarth Vader is a fictional character in the Star Wars franchise. He is a primary antagonist in the original trilogy and a primary protagonist in the prequel trilogy.", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 
+1647843544 OUTPUT Darth Vader is a fictional character in the Star Wars franchise. He is a primary antagonist in the original trilogy and a primary protagonist in the prequel trilogy. 
+1647843544 QUERY Elaborate on Darth Vader 
+1647843546 RESPONSE {"id"=>"cmpl-4o5fcu6RO42I0c9maXpo8pnkC3hAK", "object"=>"text_completion", "created"=>1647843544, "model"=>"text-davinci:002", "choices"=>[{"text"=>"'s role in the destruction of the Jedi\n\nDarth Vader was the Sith Lord who destroyed the Jedi Order. He was the apprentice of Darth Sidious and the master of Darth Maul. He led the Sith in their war against the Jedi. He killed many Jedi, including Obi-Wan Kenobi and Luke Skywalker.", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 
+1647843546 OUTPUT 's role in the destruction of the JediDarth Vader was the Sith Lord who destroyed the Jedi Order. He was the apprentice of Darth Sidious and the master of Darth Maul. He led the Sith in their war against the Jedi. He killed many Jedi, including Obi-Wan Kenobi and Luke Skywalker. 
+1647843546 OUTPUT What else can I tell you about Darth Vader? 
+1647843546 OUTPUT A. Tell me more about their life. 
+1647843546 OUTPUT B. Tell me more about their accomplishments. 
+1647843546 OUTPUT C. Tell me more about the time period they were alive during. 
+1647843546 OUTPUT Or, ask me anything about Darth Vader! 
+1647843555 INPUT B 
+1647843555 QUERY Tell me more about Darth Vader's accomplishments 
+1647843556 RESPONSE {"id"=>"cmpl-4o5fozgv1NeZQ6P1KCOuBkWTApNfG", "object"=>"text_completion", "created"=>1647843556, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\n\nSome of Darth Vader's accomplishments include leading the Empire's armies to victory in numerous campaigns, crushing the Rebel Alliance, and overseeing the construction of the Death Star.", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 
+1647843556 OUTPUT Some of Darth Vader's accomplishments include leading the Empire's armies to victory in numerous campaigns, crushing the Rebel Alliance, and overseeing the construction of the Death Star. 
+1647843556 OUTPUT Time for a quiz! 
+1647843556 QUERY Based on the information we have learned about Darth Vader, including Darth Vader is a fictional character in the Star Wars franchise. He is a primary antagonist in the original trilogy and a primary protagonist in the prequel trilogy.'s role in the destruction of the JediDarth Vader was the Sith Lord who destroyed the Jedi Order. He was the apprentice of Darth Sidious and the master of Darth Maul. He led the Sith in their war against the Jedi. He killed many Jedi, including Obi-Wan Kenobi and Luke Skywalker.Some of Darth Vader's accomplishments include leading the Empire's armies to victory in numerous campaigns, crushing the Rebel Alliance, and overseeing the construction of the Death Star., generate one true or false question but do not answer it: 
+1647843557 RESPONSE {"id"=>"cmpl-4o5fpAxYCOcXhqo6JtC3pygVVxRPd", "object"=>"text_completion", "created"=>1647843557, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\n\nDarth Vader was the Sith Lord who destroyed the Jedi Order.", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 
+1647843557 OUTPUT Darth Vader was the Sith Lord who destroyed the Jedi Order. 
+1647843571 INPUT True 
+1647843571 QUERY Is True a correct answer to the following question: Darth Vader was the Sith Lord who destroyed the Jedi Order.? Yes or no? 
+1647843571 RESPONSE {"id"=>"cmpl-4o5g3MW9D5eQ6cWtwXgC68oIF8LPc", "object"=>"text_completion", "created"=>1647843571, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\n\nYes", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 
+1647843571 OUTPUT Yes 
+1647843571 QUERY Based on the information we have learned about Darth Vader, including Darth Vader is a fictional character in the Star Wars franchise. He is a primary antagonist in the original trilogy and a primary protagonist in the prequel trilogy.'s role in the destruction of the JediDarth Vader was the Sith Lord who destroyed the Jedi Order. He was the apprentice of Darth Sidious and the master of Darth Maul. He led the Sith in their war against the Jedi. He killed many Jedi, including Obi-Wan Kenobi and Luke Skywalker.Some of Darth Vader's accomplishments include leading the Empire's armies to victory in numerous campaigns, crushing the Rebel Alliance, and overseeing the construction of the Death Star., generate one multiple choice question but do not answer it: 
+1647843573 RESPONSE {"id"=>"cmpl-4o5g3QPIGiCz7g6tI4tr0S1TBDWjX", "object"=>"text_completion", "created"=>1647843571, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\n\n1. What was Darth Vader's role in the destruction of the Jedi?\n\nA. He was the Sith Lord who destroyed the Jedi Order.\n\nB. He was the apprentice of Darth Sidious and the master of Darth Maul.\n\nC. He led the Sith in their war against the Jedi.\n\nD. He killed many Jedi, including Obi-Wan Kenobi and Luke Skywalker.", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 
+1647843573 OUTPUT 1. What was Darth Vader's role in the destruction of the Jedi?A. He was the Sith Lord who destroyed the Jedi Order.B. He was the apprentice of Darth Sidious and the master of Darth Maul.C. He led the Sith in their war against the Jedi.D. He killed many Jedi, including Obi-Wan Kenobi and Luke Skywalker. 
+1647843588 INPUT A 
+1647843588 QUERY Is A a correct answer to the following question: 1. What was Darth Vader's role in the destruction of the Jedi?A. He was the Sith Lord who destroyed the Jedi Order.B. He was the apprentice of Darth Sidious and the master of Darth Maul.C. He led the Sith in their war against the Jedi.D. He killed many Jedi, including Obi-Wan Kenobi and Luke Skywalker.? Yes or no? 
+1647843588 RESPONSE {"id"=>"cmpl-4o5gKWxIxQjtFVYUutUZswHZ2pHLn", "object"=>"text_completion", "created"=>1647843588, "model"=>"text-davinci:002", "choices"=>[{"text"=>"A. He was the Sith Lord who destroyed the Jedi Order.", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 
+1647843588 OUTPUT A. He was the Sith Lord who destroyed the Jedi Order. 
+1647843588 QUERY Based on the information we have learned about Darth Vader, including Darth Vader is a fictional character in the Star Wars franchise. He is a primary antagonist in the original trilogy and a primary protagonist in the prequel trilogy.'s role in the destruction of the JediDarth Vader was the Sith Lord who destroyed the Jedi Order. He was the apprentice of Darth Sidious and the master of Darth Maul. He led the Sith in their war against the Jedi. He killed many Jedi, including Obi-Wan Kenobi and Luke Skywalker.Some of Darth Vader's accomplishments include leading the Empire's armies to victory in numerous campaigns, crushing the Rebel Alliance, and overseeing the construction of the Death Star., generate one short answer question but do not answer it: 
+1647843589 RESPONSE {"id"=>"cmpl-4o5gLQ4y8cWpRCdDG8OyuvdPaTu7i", "object"=>"text_completion", "created"=>1647843589, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\n\nWhat motivated Darth Vader to destroy the Jedi Order?", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 
+1647843589 OUTPUT What motivated Darth Vader to destroy the Jedi Order? 
+1647843606 INPUT He wasn't a big fan of their beliefs 
+1647843606 QUERY Is He wasn't a big fan of their beliefs a correct answer to the following question: What motivated Darth Vader to destroy the Jedi Order?? Yes or no? 
+1647843606 RESPONSE {"id"=>"cmpl-4o5gcNBswSzbRTTC3A6zJO1dtDRnm", "object"=>"text_completion", "created"=>1647843606, "model"=>"text-davinci:002", "choices"=>[{"text"=>"\n\nNo", "index"=>0, "logprobs"=>nil, "finish_reason"=>"stop"}]} 
+1647843606 OUTPUT No 
+1647843606 OUTPUT Your score is 2 out of 4 
+1647843606 OUTPUT Choose another person? Y/N 
+1647843614 OUTPUT Goodbye! 
